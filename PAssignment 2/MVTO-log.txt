@@ -1,0 +1,1962 @@
+Thread id 140627646002944 Transaction id 2 reads from 1 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 1 reads from 9 value 0 at 17:6:24
+Thread id 140627620824832 Transaction id 5 reads from 1 value 0 at 17:6:24
+Thread id 140627620824832 Transaction id 5 writes to 1 value 33 at 17:6:24
+Thread id 140626934744832 Transaction id 44 reads from 8 value 0 at 17:6:24
+Thread id 140626934744832 Transaction id 44 writes to 8 value 3 at 17:6:24
+Thread id 140626934744832 Transaction id 44 reads from 3 value 0 at 17:6:24
+Thread id 140626934744832 Transaction id 44 writes to 3 value 98 at 17:6:24
+Thread id 140626934744832 Transaction id 44 reads from 8 value 0 at 17:6:24
+Transaction id 2 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 1 writes to 9 value 22 at 17:6:24
+Thread id 140627578861312 Transaction id 10 reads from 1 value 0 at 17:6:24
+Thread id 140627578861312 Transaction id 10 writes to 1 value 37 at 17:6:24
+Thread id 140627211704064 Transaction id 13 reads from 6 value 0 at 17:6:24
+Thread id 140627211704064 Transaction id 13 writes to 6 value 56 at 17:6:24
+Thread id 140627578861312 Transaction id 10 reads from 5 value 0 at 17:6:24
+Thread id 140627578861312 Transaction id 10 writes to 5 value 90 at 17:6:24
+Thread id 140627178133248 Transaction id 17 reads from 4 value 0 at 17:6:24
+Thread id 140627178133248 Transaction id 17 writes to 4 value 48 at 17:6:24
+Transaction id 10 tries to commit with result commit at 17:6:24
+Thread id 140627178133248 Transaction id 17 reads from 6 value 0 at 17:6:24
+Thread id 140627178133248 Transaction id 17 writes to 6 value 67 at 17:6:24
+Thread id 140627178133248 Transaction id 17 reads from 9 value 0 at 17:6:24
+Thread id 140627178133248 Transaction id 17 writes to 9 value 5 at 17:6:24
+Thread id 140627178133248 Transaction id 17 reads from 4 value 0 at 17:6:24
+Thread id 140627178133248 Transaction id 17 writes to 4 value 2 at 17:6:24
+Transaction id 17 tries to commit with result commit at 17:6:24
+Thread id 140627152955136 Transaction id 20 reads from 2 value 0 at 17:6:24
+Thread id 140627152955136 Transaction id 20 writes to 2 value 33 at 17:6:24
+Thread id 140627119384320 Transaction id 24 reads from 3 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 28 reads from 6 value 67 at 17:6:24
+Thread id 140627069028096 Transaction id 30 reads from 6 value 67 at 17:6:24
+Thread id 140627043849984 Transaction id 33 reads from 8 value 0 at 17:6:24
+Thread id 140627027064576 Transaction id 35 reads from 4 value 2 at 17:6:24
+Thread id 140626993493760 Transaction id 38 reads from 0 value 0 at 17:6:24
+Thread id 140627001886464 Transaction id 41 reads from 4 value 2 at 17:6:24
+Thread id 140626959922944 Transaction id 43 reads from 1 value 37 at 17:6:24
+Thread id 140626959922944 Transaction id 43 writes to 1 value 42 at 17:6:24
+Thread id 140627595646720 Transaction id 8 reads from 5 value 0 at 17:6:24
+Transaction id 8 tries to commit with result abort at 17:6:24
+Thread id 140626943137536 Transaction id 45 reads from 4 value 2 at 17:6:24
+Thread id 140627637610240 Transaction id 3 reads from 0 value 0 at 17:6:24
+Thread id 140626934744832 Transaction id 44 writes to 8 value 35 at 17:6:24
+Thread id 140626943137536 Transaction id 45 writes to 4 value 16 at 17:6:24
+Thread id 140626926352128 Transaction id 47 reads from 6 value 67 at 17:6:24
+Thread id 140626934744832 Transaction id 44 reads from 4 value 2 at 17:6:24
+Thread id 140626943137536 Transaction id 45 reads from 4 value 0 at 17:6:24
+Thread id 140626909566720 Transaction id 49 reads from 5 value 90 at 17:6:24
+Thread id 140627612432128 Transaction id 6 reads from 6 value 0 at 17:6:24
+Thread id 140627587254016 Transaction id 9 reads from 5 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 1 reads from 5 value 0 at 17:6:24
+Thread id 140627228489472 Transaction id 11 reads from 7 value 0 at 17:6:24
+Thread id 140627186525952 Transaction id 15 reads from 5 value 90 at 17:6:24
+Transaction id 11 tries to commit with result abort at 17:6:24
+Transaction id 13 tries to commit with result commit at 17:6:24
+Thread id 140627228489472 Transaction id 53 reads from 9 value 5 at 17:6:24
+Thread id 140627127777024 Transaction id 23 reads from 0 value 0 at 17:6:24
+Thread id 140627102598912 Transaction id 26 reads from 1 value 37 at 17:6:24
+Thread id 140627203311360 Transaction id 14 reads from 9 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 27 reads from 5 value 90 at 17:6:24
+Transaction id 1 tries to commit with result abort at 17:6:24
+Transaction id 23 tries to commit with result abort at 17:6:24
+Thread id 140627052242688 Transaction id 32 reads from 5 value 90 at 17:6:24
+Transaction id 15 tries to commit with result abort at 17:6:24
+Thread id 140627629217536 Transaction id 4 reads from 1 value 0 at 17:6:24
+Thread id 140627194918656 Transaction id 16 reads from 5 value 90 at 17:6:24
+Transaction id 3 tries to commit with result abort at 17:6:24
+Thread id 140626917959424 Transaction id 48 reads from 8 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 42 reads from 9 value 5 at 17:6:24
+Transaction id 42 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 54 reads from 5 value 90 at 17:6:24
+Thread id 140627127777024 Transaction id 55 reads from 6 value 67 at 17:6:24
+Thread id 140627169740544 Transaction id 18 reads from 9 value 5 at 17:6:24
+Transaction id 18 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 22 reads from 7 value 0 at 17:6:24
+Transaction id 22 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 37 reads from 7 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 60 reads from 9 value 5 at 17:6:24
+Thread id 140627136169728 Transaction id 60 writes to 9 value 99 at 17:6:24
+Transaction id 24 tries to commit with result abort at 17:6:24
+Transaction id 9 tries to commit with result abort at 17:6:24
+Thread id 140627119384320 Transaction id 61 reads from 4 value 0 at 17:6:24
+Thread id 140627587254016 Transaction id 62 reads from 4 value 0 at 17:6:24
+Transaction id 53 tries to commit with result abort at 17:6:24
+Thread id 140627152955136 Transaction id 20 reads from 2 value 0 at 17:6:24
+Thread id 140627595646720 Transaction id 52 reads from 2 value 0 at 17:6:24
+Transaction id 27 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 31 reads from 5 value 90 at 17:6:24
+Transaction id 30 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 25 reads from 5 value 90 at 17:6:24
+Transaction id 33 tries to commit with result abort at 17:6:24
+Thread id 140626951530240 Transaction id 46 reads from 0 value 0 at 17:6:24
+Thread id 140626951530240 Transaction id 46 writes to 0 value 19 at 17:6:24
+Thread id 140627043849984 Transaction id 66 reads from 7 value 0 at 17:6:24
+Thread id 140627043849984 Transaction id 66 writes to 7 value 92 at 17:6:24
+Transaction id 48 tries to commit with result abort at 17:6:24
+Transaction id 4 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 37 writes to 7 value 46 at 17:6:24
+Thread id 140627043849984 Transaction id 66 reads from 4 value 0 at 17:6:24
+Thread id 140627220096768 Transaction id 12 reads from 3 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 37 reads from 2 value 0 at 17:6:24
+Transaction id 37 tries to commit with result abort at 17:6:24
+Transaction id 32 tries to commit with result abort at 17:6:24
+Transaction id 14 tries to commit with result abort at 17:6:24
+Transaction id 26 tries to commit with result abort at 17:6:24
+Thread id 140627228489472 Transaction id 63 reads from 2 value 0 at 17:6:24
+Thread id 140627587254016 Transaction id 62 writes to 4 value 2 at 17:6:24
+Thread id 140627169740544 Transaction id 59 reads from 0 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 50 reads from 2 value 0 at 17:6:24
+Thread id 140627587254016 Transaction id 62 reads from 9 value 0 at 17:6:24
+Thread id 140627587254016 Transaction id 62 writes to 9 value 76 at 17:6:24
+Transaction id 31 tries to commit with result abort at 17:6:24
+Thread id 140627094206208 Transaction id 64 reads from 8 value 0 at 17:6:24
+Transaction id 35 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 65 reads from 4 value 0 at 17:6:24
+Transaction id 65 tries to commit with result abort at 17:6:24
+Thread id 140626968315648 Transaction id 58 reads from 9 value 5 at 17:6:24
+Transaction id 50 tries to commit with result abort at 17:6:24
+Transaction id 25 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 76 reads from 4 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 76 writes to 4 value 18 at 17:6:24
+Thread id 140627646002944 Transaction id 51 reads from 2 value 0 at 17:6:24
+Transaction id 51 tries to commit with result abort at 17:6:24
+Thread id 140627637610240 Transaction id 57 reads from 1 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 54 writes to 5 value 138 at 17:6:24
+Thread id 140626825836288 Transaction id 76 reads from 1 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 39 reads from 0 value 0 at 17:6:24
+Transaction id 6 tries to commit with result abort at 17:6:24
+Thread id 140626917959424 Transaction id 67 reads from 5 value 0 at 17:6:24
+Transaction id 39 tries to commit with result abort at 17:6:24
+Transaction id 41 tries to commit with result abort at 17:6:24
+Thread id 140626985101056 Transaction id 80 reads from 6 value 0 at 17:6:24
+Thread id 140627127777024 Transaction id 55 writes to 6 value 157 at 17:6:24
+Transaction id 12 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 54 reads from 9 value 5 at 17:6:24
+Thread id 140627220096768 Transaction id 82 reads from 8 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 60 reads from 3 value 0 at 17:6:24
+Transaction id 60 tries to commit with result abort at 17:6:24
+Thread id 140627052242688 Transaction id 70 reads from 6 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 83 reads from 4 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 83 writes to 4 value 50 at 17:6:24
+Thread id 140626951530240 Transaction id 46 reads from 9 value 5 at 17:6:24
+Thread id 140627228489472 Transaction id 63 writes to 2 value 57 at 17:6:24
+Thread id 140627136169728 Transaction id 83 reads from 8 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 83 writes to 8 value 40 at 17:6:24
+Thread id 140627043849984 Transaction id 66 writes to 4 value 13 at 17:6:24
+Thread id 140626976708352 Transaction id 40 reads from 3 value 0 at 17:6:24
+Transaction id 40 tries to commit with result abort at 17:6:24
+Thread id 140627043849984 Transaction id 66 reads from 0 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 69 reads from 0 value 0 at 17:6:24
+Transaction id 69 tries to commit with result abort at 17:6:24
+Thread id 140627203311360 Transaction id 71 reads from 1 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 85 reads from 0 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 85 writes to 0 value 39 at 17:6:24
+Thread id 140627629217536 Transaction id 68 reads from 3 value 0 at 17:6:24
+Transaction id 66 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 73 reads from 8 value 0 at 17:6:24
+Transaction id 47 tries to commit with result abort at 17:6:24
+Transaction id 73 tries to commit with result abort at 17:6:24
+Transaction id 64 tries to commit with result abort at 17:6:24
+Thread id 140626959922944 Transaction id 43 reads from 7 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 88 reads from 8 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 89 reads from 5 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 89 writes to 5 value 63 at 17:6:24
+Thread id 140627161347840 Transaction id 19 reads from 6 value 67 at 17:6:24
+Transaction id 19 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 77 reads from 9 value 0 at 17:6:24
+Transaction id 16 tries to commit with result abort at 17:6:24
+Thread id 140627186525952 Transaction id 56 reads from 3 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 76 writes to 1 value 37 at 17:6:24
+Transaction id 57 tries to commit with result abort at 17:6:24
+Thread id 140627646002944 Transaction id 78 reads from 4 value 0 at 17:6:24
+Thread id 140627637610240 Transaction id 92 reads from 0 value 0 at 17:6:24
+Thread id 140626917959424 Transaction id 67 writes to 5 value 25 at 17:6:24
+Transaction id 49 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 7 reads from 2 value 0 at 17:6:24
+Thread id 140626909566720 Transaction id 93 reads from 9 value 0 at 17:6:24
+Transaction id 67 tries to commit with result commit at 17:6:24
+Thread id 140627018671872 Transaction id 36 reads from 5 value 90 at 17:6:24
+Transaction id 36 tries to commit with result abort at 17:6:24
+Thread id 140627018671872 Transaction id 94 reads from 4 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 94 writes to 4 value 88 at 17:6:24
+Thread id 140626985101056 Transaction id 80 writes to 6 value 90 at 17:6:24
+Thread id 140627220096768 Transaction id 82 writes to 8 value 14 at 17:6:24
+Transaction id 38 tries to commit with result abort at 17:6:24
+Thread id 140626985101056 Transaction id 80 reads from 0 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 95 reads from 3 value 0 at 17:6:24
+Thread id 140627220096768 Transaction id 82 reads from 8 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 29 reads from 9 value 5 at 17:6:24
+Transaction id 80 tries to commit with result abort at 17:6:24
+Thread id 140626985101056 Transaction id 96 reads from 6 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 96 writes to 6 value 2 at 17:6:24
+Thread id 140627127777024 Transaction id 55 reads from 7 value 0 at 17:6:24
+Transaction id 55 tries to commit with result abort at 17:6:24
+Thread id 140627127777024 Transaction id 97 reads from 8 value 0 at 17:6:24
+Thread id 140627127777024 Transaction id 97 writes to 8 value 34 at 17:6:24
+Thread id 140627018671872 Transaction id 94 reads from 4 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 94 writes to 4 value 65 at 17:6:24
+Thread id 140626985101056 Transaction id 96 reads from 4 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 96 writes to 4 value 21 at 17:6:24
+Thread id 140627018671872 Transaction id 94 reads from 4 value 0 at 17:6:24
+Transaction id 94 tries to commit with result abort at 17:6:24
+Thread id 140627018671872 Transaction id 98 reads from 1 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 98 writes to 1 value 65 at 17:6:24
+Thread id 140627144562432 Transaction id 21 reads from 6 value 67 at 17:6:24
+Transaction id 20 tries to commit with result abort at 17:6:24
+Thread id 140627018671872 Transaction id 98 reads from 3 value 0 at 17:6:24
+Transaction id 46 tries to commit with result abort at 17:6:24
+Thread id 140627228489472 Transaction id 63 reads from 4 value 0 at 17:6:24
+Thread id 140626951530240 Transaction id 100 reads from 5 value 0 at 17:6:24
+Thread id 140626951530240 Transaction id 100 writes to 5 value 58 at 17:6:24
+Thread id 140627136169728 Transaction id 83 reads from 0 value 0 at 17:6:24
+Thread id 140627152955136 Transaction id 99 reads from 7 value 0 at 17:6:24
+Transaction id 45 tries to commit with result abort at 17:6:24
+Transaction id 99 tries to commit with result abort at 17:6:24
+Transaction id 28 tries to commit with result abort at 17:6:24
+Thread id 140626943137536 Transaction id 101 reads from 8 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 103 reads from 9 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 103 writes to 9 value 84 at 17:6:24
+Transaction id 68 tries to commit with result abort at 17:6:24
+Thread id 140626943137536 Transaction id 101 writes to 8 value 5 at 17:6:24
+Thread id 140627629217536 Transaction id 104 reads from 9 value 0 at 17:6:24
+Thread id 140627629217536 Transaction id 104 writes to 9 value 12 at 17:6:24
+Thread id 140627010279168 Transaction id 85 reads from 2 value 0 at 17:6:24
+Thread id 140627043849984 Transaction id 86 reads from 1 value 0 at 17:6:24
+Thread id 140627035457280 Transaction id 34 reads from 5 value 90 at 17:6:24
+Transaction id 34 tries to commit with result abort at 17:6:24
+Transaction id 43 tries to commit with result abort at 17:6:24
+Thread id 140627035457280 Transaction id 105 reads from 7 value 0 at 17:6:24
+Thread id 140627035457280 Transaction id 105 writes to 7 value 64 at 17:6:24
+Thread id 140627060635392 Transaction id 88 writes to 8 value 80 at 17:6:24
+Thread id 140627085813504 Transaction id 103 reads from 1 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 103 writes to 1 value 97 at 17:6:24
+Transaction id 58 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 88 reads from 4 value 0 at 17:6:24
+Transaction id 88 tries to commit with result abort at 17:6:24
+Transaction id 44 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 107 reads from 4 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 107 writes to 4 value 13 at 17:6:24
+Thread id 140627085813504 Transaction id 103 reads from 1 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 103 writes to 1 value 34 at 17:6:24
+Thread id 140627069028096 Transaction id 75 reads from 6 value 0 at 17:6:24
+Transaction id 77 tries to commit with result abort at 17:6:24
+Thread id 140627085813504 Transaction id 103 reads from 4 value 0 at 17:6:24
+Thread id 140627194918656 Transaction id 91 reads from 0 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 109 reads from 9 value 0 at 17:6:24
+Transaction id 103 tries to commit with result abort at 17:6:24
+Transaction id 75 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 76 reads from 0 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 89 reads from 0 value 0 at 17:6:24
+Transaction id 76 tries to commit with result abort at 17:6:24
+Transaction id 7 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 111 reads from 6 value 0 at 17:6:24
+Thread id 140627069028096 Transaction id 111 writes to 6 value 93 at 17:6:24
+Thread id 140626825836288 Transaction id 112 reads from 3 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 112 writes to 3 value 82 at 17:6:24
+Thread id 140626909566720 Transaction id 93 writes to 9 value 72 at 17:6:24
+Transaction id 29 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 112 reads from 3 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 115 reads from 8 value 0 at 17:6:24
+Thread id 140627620824832 Transaction id 5 reads from 2 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 112 writes to 3 value 57 at 17:6:24
+Thread id 140626985101056 Transaction id 96 reads from 6 value 0 at 17:6:24
+Transaction id 5 tries to commit with result abort at 17:6:24
+Thread id 140627169740544 Transaction id 59 writes to 0 value 5 at 17:6:24
+Transaction id 21 tries to commit with result abort at 17:6:24
+Transaction id 63 tries to commit with result abort at 17:6:24
+Transaction id 52 tries to commit with result abort at 17:6:24
+Thread id 140627228489472 Transaction id 118 reads from 2 value 0 at 17:6:24
+Thread id 140627595646720 Transaction id 119 reads from 0 value 0 at 17:6:24
+Transaction id 83 tries to commit with result abort at 17:6:24
+Thread id 140627620824832 Transaction id 116 reads from 6 value 0 at 17:6:24
+Thread id 140627102598912 Transaction id 72 reads from 0 value 0 at 17:6:24
+Transaction id 71 tries to commit with result abort at 17:6:24
+Thread id 140627620824832 Transaction id 116 writes to 6 value 66 at 17:6:24
+Transaction id 61 tries to commit with result abort at 17:6:24
+Thread id 140627587254016 Transaction id 62 reads from 4 value 0 at 17:6:24
+Thread id 140626943137536 Transaction id 101 reads from 4 value 0 at 17:6:24
+Transaction id 101 tries to commit with result abort at 17:6:24
+Thread id 140627629217536 Transaction id 104 reads from 9 value 0 at 17:6:24
+Thread id 140627152955136 Transaction id 102 reads from 5 value 0 at 17:6:24
+Thread id 140626943137536 Transaction id 123 reads from 0 value 0 at 17:6:24
+Thread id 140626943137536 Transaction id 123 writes to 0 value 12 at 17:6:24
+Transaction id 86 tries to commit with result abort at 17:6:24
+Transaction id 123 tries to commit with result commit at 17:6:24
+Thread id 140627043849984 Transaction id 124 reads from 6 value 0 at 17:6:24
+Thread id 140627043849984 Transaction id 124 writes to 6 value 11 at 17:6:24
+Thread id 140627060635392 Transaction id 107 reads from 6 value 0 at 17:6:24
+Thread id 140627035457280 Transaction id 105 reads from 7 value 0 at 17:6:24
+Transaction id 91 tries to commit with result abort at 17:6:24
+Transaction id 105 tries to commit with result abort at 17:6:24
+Thread id 140627194918656 Transaction id 125 reads from 3 value 0 at 17:6:24
+Thread id 140627194918656 Transaction id 125 writes to 3 value 89 at 17:6:24
+Thread id 140627035457280 Transaction id 126 reads from 5 value 0 at 17:6:24
+Thread id 140627035457280 Transaction id 126 writes to 5 value 55 at 17:6:24
+Thread id 140627085813504 Transaction id 110 reads from 0 value 0 at 17:6:24
+Transaction id 56 tries to commit with result abort at 17:6:24
+Transaction id 110 tries to commit with result abort at 17:6:24
+Thread id 140627186525952 Transaction id 127 reads from 2 value 0 at 17:6:24
+Thread id 140627186525952 Transaction id 127 writes to 2 value 88 at 17:6:24
+Thread id 140627085813504 Transaction id 128 reads from 1 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 128 writes to 1 value 35 at 17:6:24
+Thread id 140627186525952 Transaction id 127 reads from 6 value 0 at 17:6:24
+Thread id 140627186525952 Transaction id 127 writes to 6 value 31 at 17:6:24
+Transaction id 54 tries to commit with result abort at 17:6:24
+Thread id 140627085813504 Transaction id 128 reads from 5 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 95 writes to 3 value 34 at 17:6:24
+Transaction id 70 tries to commit with result abort at 17:6:24
+Thread id 140627186525952 Transaction id 127 reads from 2 value 0 at 17:6:24
+Thread id 140627052242688 Transaction id 130 reads from 6 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 95 reads from 3 value 0 at 17:6:24
+Transaction id 95 tries to commit with result abort at 17:6:24
+Thread id 140626909566720 Transaction id 93 reads from 6 value 0 at 17:6:24
+Thread id 140627127777024 Transaction id 97 reads from 7 value 0 at 17:6:24
+Transaction id 97 tries to commit with result abort at 17:6:24
+Transaction id 78 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 112 reads from 3 value 0 at 17:6:24
+Thread id 140626934744832 Transaction id 114 reads from 2 value 0 at 17:6:24
+Transaction id 112 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 117 reads from 7 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 84 reads from 3 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 134 reads from 0 value 12 at 17:6:24
+Thread id 140626825836288 Transaction id 134 writes to 0 value 101 at 17:6:24
+Thread id 140627595646720 Transaction id 119 writes to 0 value 11 at 17:6:24
+Thread id 140627136169728 Transaction id 120 reads from 9 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 120 writes to 9 value 47 at 17:6:24
+Thread id 140627595646720 Transaction id 119 reads from 4 value 0 at 17:6:24
+Thread id 140627595646720 Transaction id 119 writes to 4 value 87 at 17:6:24
+Thread id 140627169740544 Transaction id 59 reads from 4 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 120 reads from 1 value 0 at 17:6:24
+Transaction id 120 tries to commit with result abort at 17:6:24
+Thread id 140627595646720 Transaction id 119 reads from 6 value 0 at 17:6:24
+Transaction id 119 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 135 reads from 0 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 85 writes to 2 value 17 at 17:6:24
+Thread id 140627620824832 Transaction id 116 reads from 8 value 0 at 17:6:24
+Transaction id 104 tries to commit with result abort at 17:6:24
+Transaction id 102 tries to commit with result abort at 17:6:24
+Thread id 140626959922944 Transaction id 106 reads from 7 value 0 at 17:6:24
+Transaction id 106 tries to commit with result abort at 17:6:24
+Thread id 140627027064576 Transaction id 74 reads from 9 value 0 at 17:6:24
+Transaction id 74 tries to commit with result abort at 17:6:24
+Transaction id 107 tries to commit with result abort at 17:6:24
+Thread id 140627043849984 Transaction id 124 reads from 8 value 0 at 17:6:24
+Thread id 140627161347840 Transaction id 90 reads from 0 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 141 reads from 1 value 0 at 17:6:24
+Thread id 140627043849984 Transaction id 124 writes to 8 value 14 at 17:6:24
+Thread id 140627194918656 Transaction id 125 reads from 3 value 0 at 17:6:24
+Transaction id 125 tries to commit with result abort at 17:6:24
+Thread id 140626968315648 Transaction id 108 reads from 5 value 0 at 17:6:24
+Transaction id 89 tries to commit with result abort at 17:6:24
+Thread id 140627001886464 Transaction id 81 reads from 8 value 0 at 17:6:24
+Transaction id 108 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 129 reads from 3 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 143 reads from 9 value 0 at 17:6:24
+Thread id 140627052242688 Transaction id 130 writes to 6 value 95 at 17:6:24
+Thread id 140627186525952 Transaction id 127 writes to 2 value 47 at 17:6:24
+Transaction id 143 tries to commit with result abort at 17:6:24
+Thread id 140627085813504 Transaction id 128 writes to 5 value 44 at 17:6:24
+Thread id 140627069028096 Transaction id 111 reads from 1 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 131 reads from 6 value 0 at 17:6:24
+Transaction id 93 tries to commit with result abort at 17:6:24
+Thread id 140627052242688 Transaction id 130 reads from 8 value 0 at 17:6:24
+Thread id 140627127777024 Transaction id 132 reads from 2 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 128 reads from 5 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 128 writes to 5 value 20 at 17:6:24
+Thread id 140627077420800 Transaction id 115 writes to 8 value 73 at 17:6:24
+Transaction id 117 tries to commit with result abort at 17:6:24
+Transaction id 84 tries to commit with result abort at 17:6:24
+Thread id 140627228489472 Transaction id 118 writes to 2 value 67 at 17:6:24
+Transaction id 111 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 134 reads from 3 value 0 at 17:6:24
+Thread id 140627052242688 Transaction id 130 writes to 8 value 96 at 17:6:24
+Thread id 140627203311360 Transaction id 121 reads from 0 value 0 at 17:6:24
+Transaction id 118 tries to commit with result commit at 17:6:24
+Transaction id 59 tries to commit with result abort at 17:6:24
+Thread id 140627119384320 Transaction id 122 reads from 7 value 0 at 17:6:24
+Transaction id 122 tries to commit with result abort at 17:6:24
+Thread id 140627595646720 Transaction id 136 reads from 2 value 0 at 17:6:24
+Transaction id 130 tries to commit with result commit at 17:6:24
+Transaction id 134 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 85 reads from 1 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 150 reads from 3 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 152 reads from 7 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 152 writes to 7 value 57 at 17:6:24
+Thread id 140626959922944 Transaction id 139 reads from 3 value 0 at 17:6:24
+Transaction id 139 tries to commit with result abort at 17:6:24
+Transaction id 131 tries to commit with result abort at 17:6:24
+Transaction id 90 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 109 writes to 9 value 43 at 17:6:24
+Thread id 140627060635392 Transaction id 141 writes to 1 value 15 at 17:6:24
+Thread id 140627612432128 Transaction id 79 reads from 9 value 0 at 17:6:24
+Transaction id 79 tries to commit with result abort at 17:6:24
+Thread id 140627161347840 Transaction id 155 reads from 2 value 0 at 17:6:24
+Thread id 140627612432128 Transaction id 156 reads from 9 value 0 at 17:6:24
+Thread id 140627612432128 Transaction id 156 writes to 9 value 77 at 17:6:24
+Thread id 140627043849984 Transaction id 124 reads from 0 value 12 at 17:6:24
+Thread id 140627637610240 Transaction id 92 writes to 0 value 30 at 17:6:24
+Transaction id 124 tries to commit with result abort at 17:6:24
+Thread id 140627612432128 Transaction id 156 reads from 1 value 0 at 17:6:24
+Transaction id 81 tries to commit with result abort at 17:6:24
+Transaction id 129 tries to commit with result abort at 17:6:24
+Transaction id 82 tries to commit with result abort at 17:6:24
+Thread id 140626968315648 Transaction id 144 reads from 9 value 0 at 17:6:24
+Thread id 140627001886464 Transaction id 158 reads from 4 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 145 reads from 4 value 0 at 17:6:24
+Thread id 140627612432128 Transaction id 156 writes to 1 value 94 at 17:6:24
+Transaction id 144 tries to commit with result abort at 17:6:24
+Transaction id 132 tries to commit with result abort at 17:6:24
+Thread id 140627186525952 Transaction id 127 reads from 5 value 0 at 17:6:24
+Transaction id 114 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 147 reads from 6 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 98 writes to 3 value 70 at 17:6:24
+Thread id 140626934744832 Transaction id 163 reads from 0 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 128 reads from 7 value 0 at 17:6:24
+Thread id 140627612432128 Transaction id 156 reads from 6 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 148 reads from 0 value 0 at 17:6:24
+Thread id 140627612432128 Transaction id 156 writes to 6 value 36 at 17:6:24
+Transaction id 62 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 149 reads from 3 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 135 writes to 0 value 55 at 17:6:24
+Thread id 140627595646720 Transaction id 136 writes to 2 value 1 at 17:6:24
+Thread id 140627119384320 Transaction id 151 reads from 2 value 0 at 17:6:24
+Transaction id 116 tries to commit with result abort at 17:6:24
+Thread id 140627152955136 Transaction id 138 reads from 9 value 0 at 17:6:24
+Thread id 140627620824832 Transaction id 165 reads from 3 value 0 at 17:6:24
+Thread id 140627620824832 Transaction id 165 writes to 3 value 46 at 17:6:24
+Thread id 140627169740544 Transaction id 150 writes to 3 value 86 at 17:6:24
+Thread id 140627595646720 Transaction id 136 reads from 2 value 0 at 17:6:24
+Transaction id 72 tries to commit with result abort at 17:6:24
+Thread id 140627620824832 Transaction id 165 reads from 9 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 150 reads from 0 value 0 at 17:6:24
+Thread id 140627027064576 Transaction id 140 reads from 1 value 0 at 17:6:24
+Thread id 140627102598912 Transaction id 166 reads from 6 value 0 at 17:6:24
+Thread id 140627102598912 Transaction id 166 writes to 6 value 40 at 17:6:24
+Thread id 140626993493760 Transaction id 154 reads from 4 value 0 at 17:6:24
+Transaction id 154 tries to commit with result abort at 17:6:24
+Thread id 140627194918656 Transaction id 142 reads from 9 value 0 at 17:6:24
+Thread id 140627035457280 Transaction id 126 reads from 7 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 141 reads from 1 value 0 at 17:6:24
+Thread id 140627043849984 Transaction id 157 reads from 7 value 0 at 17:6:24
+Thread id 140627637610240 Transaction id 92 reads from 7 value 0 at 17:6:24
+Transaction id 142 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 113 reads from 6 value 0 at 17:6:24
+Transaction id 145 tries to commit with result abort at 17:6:24
+Transaction id 96 tries to commit with result abort at 17:6:24
+Thread id 140627220096768 Transaction id 160 reads from 8 value 96 at 17:6:24
+Thread id 140627646002944 Transaction id 133 reads from 7 value 0 at 17:6:24
+Transaction id 113 tries to commit with result abort at 17:6:24
+Transaction id 141 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 147 writes to 6 value 29 at 17:6:24
+Transaction id 127 tries to commit with result abort at 17:6:24
+Thread id 140627077420800 Transaction id 115 reads from 6 value 0 at 17:6:24
+Thread id 140627186525952 Transaction id 173 reads from 6 value 0 at 17:6:24
+Thread id 140627186525952 Transaction id 173 writes to 6 value 89 at 17:6:24
+Transaction id 121 tries to commit with result abort at 17:6:24
+Thread id 140627018671872 Transaction id 98 reads from 4 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 174 reads from 3 value 0 at 17:6:24
+Transaction id 98 tries to commit with result abort at 17:6:24
+Thread id 140626909566720 Transaction id 146 reads from 7 value 0 at 17:6:24
+Transaction id 146 tries to commit with result abort at 17:6:24
+Thread id 140627203311360 Transaction id 174 writes to 3 value 11 at 17:6:24
+Transaction id 128 tries to commit with result abort at 17:6:24
+Thread id 140627587254016 Transaction id 164 reads from 6 value 0 at 17:6:24
+Thread id 140626909566720 Transaction id 176 reads from 9 value 0 at 17:6:24
+Transaction id 149 tries to commit with result abort at 17:6:24
+Transaction id 164 tries to commit with result abort at 17:6:24
+Transaction id 151 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 135 reads from 7 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 175 reads from 8 value 96 at 17:6:24
+Thread id 140626951530240 Transaction id 100 reads from 7 value 0 at 17:6:24
+Transaction id 100 tries to commit with result abort at 17:6:24
+Transaction id 138 tries to commit with result abort at 17:6:24
+Transaction id 136 tries to commit with result abort at 17:6:24
+Thread id 140626951530240 Transaction id 181 reads from 3 value 0 at 17:6:24
+Thread id 140626951530240 Transaction id 181 writes to 3 value 44 at 17:6:24
+Thread id 140627018671872 Transaction id 175 writes to 8 value 192 at 17:6:24
+Thread id 140626959922944 Transaction id 153 reads from 4 value 0 at 17:6:24
+Thread id 140627152955136 Transaction id 182 reads from 7 value 0 at 17:6:24
+Thread id 140627152955136 Transaction id 182 writes to 7 value 50 at 17:6:24
+Thread id 140627161347840 Transaction id 155 writes to 2 value 65 at 17:6:24
+Thread id 140626993493760 Transaction id 167 reads from 3 value 0 at 17:6:24
+Transaction id 126 tries to commit with result abort at 17:6:24
+Thread id 140627102598912 Transaction id 166 reads from 8 value 96 at 17:6:24
+Thread id 140627043849984 Transaction id 157 writes to 7 value 7 at 17:6:24
+Thread id 140627152955136 Transaction id 182 reads from 8 value 0 at 17:6:24
+Transaction id 92 tries to commit with result abort at 17:6:24
+Thread id 140627161347840 Transaction id 155 reads from 7 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 159 reads from 2 value 0 at 17:6:24
+Transaction id 166 tries to commit with result abort at 17:6:24
+Thread id 140626985101056 Transaction id 170 reads from 3 value 0 at 17:6:24
+Transaction id 133 tries to commit with result abort at 17:6:24
+Thread id 140627152955136 Transaction id 182 writes to 8 value 63 at 17:6:24
+Thread id 140627646002944 Transaction id 187 reads from 8 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 187 writes to 8 value 23 at 17:6:24
+Thread id 140626968315648 Transaction id 161 reads from 1 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 172 reads from 0 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 172 writes to 0 value 39 at 17:6:24
+Transaction id 170 tries to commit with result abort at 17:6:24
+Thread id 140627102598912 Transaction id 186 reads from 4 value 0 at 17:6:24
+Thread id 140627102598912 Transaction id 186 writes to 4 value 29 at 17:6:24
+Thread id 140627604039424 Transaction id 171 reads from 3 value 0 at 17:6:24
+Transaction id 115 tries to commit with result abort at 17:6:24
+Thread id 140627001886464 Transaction id 158 writes to 4 value 58 at 17:6:24
+Transaction id 171 tries to commit with result abort at 17:6:24
+Thread id 140627127777024 Transaction id 162 reads from 1 value 0 at 17:6:24
+Thread id 140626934744832 Transaction id 163 writes to 0 value 33 at 17:6:24
+Thread id 140627060635392 Transaction id 172 reads from 7 value 0 at 17:6:24
+Transaction id 172 tries to commit with result abort at 17:6:24
+Thread id 140627186525952 Transaction id 173 reads from 8 value 96 at 17:6:24
+Thread id 140627612432128 Transaction id 156 reads from 8 value 96 at 17:6:24
+Thread id 140627646002944 Transaction id 187 reads from 1 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 187 writes to 1 value 43 at 17:6:24
+Thread id 140627203311360 Transaction id 174 reads from 1 value 0 at 17:6:24
+Thread id 140627069028096 Transaction id 178 reads from 6 value 0 at 17:6:24
+Thread id 140626909566720 Transaction id 176 writes to 9 value 76 at 17:6:24
+Thread id 140627085813504 Transaction id 177 reads from 5 value 0 at 17:6:24
+Transaction id 85 tries to commit with result abort at 17:6:24
+Thread id 140627629217536 Transaction id 137 reads from 3 value 0 at 17:6:24
+Thread id 140627587254016 Transaction id 179 reads from 5 value 0 at 17:6:24
+Transaction id 135 tries to commit with result abort at 17:6:24
+Thread id 140626926352128 Transaction id 87 reads from 8 value 0 at 17:6:24
+Transaction id 140 tries to commit with result abort at 17:6:24
+Thread id 140627620824832 Transaction id 165 writes to 9 value 5 at 17:6:24
+Transaction id 153 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 152 reads from 1 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 175 reads from 4 value 0 at 17:6:24
+Transaction id 150 tries to commit with result abort at 17:6:24
+Thread id 140627595646720 Transaction id 183 reads from 9 value 0 at 17:6:24
+Thread id 140627035457280 Transaction id 184 reads from 3 value 0 at 17:6:24
+Transaction id 167 tries to commit with result abort at 17:6:24
+Thread id 140627043849984 Transaction id 157 reads from 6 value 0 at 17:6:24
+Thread id 140627194918656 Transaction id 168 reads from 6 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 159 writes to 2 value 36 at 17:6:24
+Thread id 140627119384320 Transaction id 180 reads from 2 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 109 reads from 7 value 0 at 17:6:24
+Transaction id 181 tries to commit with result commit at 17:6:24
+Thread id 140627152955136 Transaction id 182 reads from 1 value 0 at 17:6:24
+Transaction id 160 tries to commit with result abort at 17:6:24
+Thread id 140626985101056 Transaction id 188 reads from 4 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 147 reads from 4 value 0 at 17:6:24
+Thread id 140627637610240 Transaction id 185 reads from 3 value 44 at 17:6:24
+Thread id 140627077420800 Transaction id 189 reads from 0 value 0 at 17:6:24
+Transaction id 186 tries to commit with result commit at 17:6:24
+Transaction id 155 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 190 reads from 9 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 191 reads from 0 value 0 at 17:6:24
+Transaction id 148 tries to commit with result abort at 17:6:24
+Transaction id 173 tries to commit with result abort at 17:6:24
+Transaction id 156 tries to commit with result abort at 17:6:24
+Transaction id 161 tries to commit with result abort at 17:6:24
+Transaction id 158 tries to commit with result commit at 17:6:24
+Thread id 140626934744832 Transaction id 163 reads from 4 value 58 at 17:6:24
+Thread id 140627069028096 Transaction id 178 writes to 6 value 66 at 17:6:24
+Thread id 140627646002944 Transaction id 187 reads from 2 value 0 at 17:6:24
+Transaction id 163 tries to commit with result abort at 17:6:24
+Thread id 140627587254016 Transaction id 179 writes to 5 value 11 at 17:6:24
+Thread id 140627010279168 Transaction id 192 reads from 1 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 192 writes to 1 value 55 at 17:6:24
+Thread id 140626909566720 Transaction id 176 reads from 0 value 0 at 17:6:24
+Transaction id 87 tries to commit with result abort at 17:6:24
+Thread id 140627027064576 Transaction id 194 reads from 2 value 0 at 17:6:24
+Thread id 140626926352128 Transaction id 205 reads from 5 value 0 at 17:6:24
+Thread id 140626926352128 Transaction id 205 writes to 5 value 37 at 17:6:24
+Transaction id 152 tries to commit with result abort at 17:6:24
+Transaction id 175 tries to commit with result abort at 17:6:24
+Transaction id 180 tries to commit with result abort at 17:6:24
+Transaction id 184 tries to commit with result abort at 17:6:24
+Thread id 140626993493760 Transaction id 197 reads from 5 value 0 at 17:6:24
+Transaction id 182 tries to commit with result abort at 17:6:24
+Transaction id 183 tries to commit with result abort at 17:6:24
+Transaction id 109 tries to commit with result abort at 17:6:24
+Thread id 140627220096768 Transaction id 198 reads from 6 value 0 at 17:6:24
+Transaction id 197 tries to commit with result abort at 17:6:24
+Thread id 140627018671872 Transaction id 207 reads from 8 value 0 at 17:6:24
+Transaction id 168 tries to commit with result abort at 17:6:24
+Transaction id 189 tries to commit with result abort at 17:6:24
+Thread id 140626993493760 Transaction id 213 reads from 5 value 0 at 17:6:24
+Thread id 140627161347840 Transaction id 199 reads from 5 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 213 writes to 5 value 94 at 17:6:24
+Transaction id 162 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 191 writes to 0 value 27 at 17:6:24
+Thread id 140627110991616 Transaction id 212 reads from 4 value 29 at 17:6:24
+Thread id 140627186525952 Transaction id 201 reads from 3 value 44 at 17:6:24
+Transaction id 174 tries to commit with result abort at 17:6:24
+Thread id 140626993493760 Transaction id 213 reads from 8 value 0 at 17:6:24
+Thread id 140627612432128 Transaction id 202 reads from 1 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 191 reads from 6 value 0 at 17:6:24
+Transaction id 191 tries to commit with result abort at 17:6:24
+Transaction id 187 tries to commit with result abort at 17:6:24
+Thread id 140627612432128 Transaction id 202 writes to 1 value 39 at 17:6:24
+Transaction id 137 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 218 reads from 7 value 0 at 17:6:24
+Transaction id 176 tries to commit with result abort at 17:6:24
+Thread id 140627587254016 Transaction id 179 reads from 1 value 0 at 17:6:24
+Thread id 140627620824832 Transaction id 165 reads from 4 value 58 at 17:6:24
+Thread id 140626959922944 Transaction id 195 reads from 2 value 0 at 17:6:24
+Transaction id 165 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 192 reads from 8 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 196 reads from 4 value 29 at 17:6:24
+Transaction id 157 tries to commit with result abort at 17:6:24
+Transaction id 196 tries to commit with result abort at 17:6:24
+Thread id 140627043849984 Transaction id 223 reads from 7 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 206 reads from 3 value 44 at 17:6:24
+Thread id 140626825836288 Transaction id 206 writes to 3 value 73 at 17:6:24
+Transaction id 188 tries to commit with result abort at 17:6:24
+Thread id 140627220096768 Transaction id 198 writes to 6 value 29 at 17:6:24
+Transaction id 185 tries to commit with result abort at 17:6:24
+Transaction id 147 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 190 writes to 9 value 5 at 17:6:24
+Transaction id 207 tries to commit with result abort at 17:6:24
+Thread id 140627194918656 Transaction id 214 reads from 9 value 0 at 17:6:24
+Thread id 140627194918656 Transaction id 214 writes to 9 value 38 at 17:6:24
+Transaction id 201 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 212 writes to 4 value 120 at 17:6:24
+Thread id 140627220096768 Transaction id 198 reads from 2 value 0 at 17:6:24
+Transaction id 177 tries to commit with result abort at 17:6:24
+Thread id 140627077420800 Transaction id 215 reads from 3 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 213 writes to 8 value 16 at 17:6:24
+Thread id 140626934744832 Transaction id 204 reads from 0 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 193 reads from 7 value 0 at 17:6:24
+Thread id 140627069028096 Transaction id 178 reads from 0 value 0 at 17:6:24
+Transaction id 178 tries to commit with result abort at 17:6:24
+Thread id 140627646002944 Transaction id 219 reads from 1 value 0 at 17:6:24
+Transaction id 218 tries to commit with result abort at 17:6:24
+Thread id 140627646002944 Transaction id 219 writes to 1 value 88 at 17:6:24
+Thread id 140627612432128 Transaction id 202 reads from 6 value 0 at 17:6:24
+Thread id 140627612432128 Transaction id 202 writes to 6 value 10 at 17:6:24
+Transaction id 195 tries to commit with result abort at 17:6:24
+Transaction id 194 tries to commit with result abort at 17:6:24
+Thread id 140627620824832 Transaction id 222 reads from 0 value 0 at 17:6:24
+Thread id 140627620824832 Transaction id 222 writes to 0 value 69 at 17:6:24
+Thread id 140627646002944 Transaction id 219 reads from 7 value 0 at 17:6:24
+Thread id 140626926352128 Transaction id 205 reads from 8 value 0 at 17:6:24
+Transaction id 179 tries to commit with result abort at 17:6:24
+Thread id 140627119384320 Transaction id 208 reads from 6 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 159 reads from 7 value 0 at 17:6:24
+Transaction id 159 tries to commit with result abort at 17:6:24
+Thread id 140627043849984 Transaction id 223 writes to 7 value 10 at 17:6:24
+Thread id 140627035457280 Transaction id 209 reads from 1 value 0 at 17:6:24
+Thread id 140627152955136 Transaction id 210 reads from 2 value 0 at 17:6:24
+Thread id 140627595646720 Transaction id 211 reads from 2 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 225 reads from 7 value 0 at 17:6:24
+Transaction id 223 tries to commit with result commit at 17:6:24
+Thread id 140627637610240 Transaction id 226 reads from 2 value 0 at 17:6:24
+Transaction id 199 tries to commit with result abort at 17:6:24
+Thread id 140626976708352 Transaction id 200 reads from 9 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 228 reads from 4 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 228 writes to 4 value 98 at 17:6:24
+Thread id 140626825836288 Transaction id 206 reads from 7 value 0 at 17:6:24
+Transaction id 206 tries to commit with result abort at 17:6:24
+Thread id 140627186525952 Transaction id 229 reads from 0 value 0 at 17:6:24
+Transaction id 198 tries to commit with result abort at 17:6:24
+Thread id 140627186525952 Transaction id 229 writes to 0 value 14 at 17:6:24
+Thread id 140627194918656 Transaction id 214 reads from 9 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 215 writes to 3 value 31 at 17:6:24
+Thread id 140627194918656 Transaction id 214 writes to 9 value 54 at 17:6:24
+Thread id 140627110991616 Transaction id 212 reads from 8 value 0 at 17:6:24
+Transaction id 204 tries to commit with result abort at 17:6:24
+Transaction id 193 tries to commit with result abort at 17:6:24
+Transaction id 212 tries to commit with result abort at 17:6:24
+Thread id 140627186525952 Transaction id 229 reads from 9 value 0 at 17:6:24
+Thread id 140627186525952 Transaction id 229 writes to 9 value 16 at 17:6:24
+Thread id 140626993493760 Transaction id 213 reads from 4 value 0 at 17:6:24
+Thread id 140626909566720 Transaction id 221 reads from 2 value 0 at 17:6:24
+Transaction id 192 tries to commit with result abort at 17:6:24
+Thread id 140627027064576 Transaction id 234 reads from 1 value 0 at 17:6:24
+Transaction id 219 tries to commit with result abort at 17:6:24
+Thread id 140627119384320 Transaction id 208 writes to 6 value 33 at 17:6:24
+Thread id 140627027064576 Transaction id 234 writes to 1 value 18 at 17:6:24
+Transaction id 205 tries to commit with result abort at 17:6:24
+Transaction id 209 tries to commit with result abort at 17:6:24
+Transaction id 210 tries to commit with result abort at 17:6:24
+Transaction id 211 tries to commit with result abort at 17:6:24
+Thread id 140627620824832 Transaction id 222 reads from 8 value 0 at 17:6:24
+Thread id 140627035457280 Transaction id 246 reads from 5 value 0 at 17:6:24
+Thread id 140627027064576 Transaction id 234 reads from 1 value 0 at 17:6:24
+Transaction id 200 tries to commit with result abort at 17:6:24
+Thread id 140627027064576 Transaction id 234 writes to 1 value 71 at 17:6:24
+Thread id 140626968315648 Transaction id 203 reads from 1 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 249 reads from 4 value 0 at 17:6:24
+Transaction id 203 tries to commit with result abort at 17:6:24
+Thread id 140627085813504 Transaction id 230 reads from 0 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 228 reads from 1 value 0 at 17:6:24
+Transaction id 228 tries to commit with result abort at 17:6:24
+Thread id 140627094206208 Transaction id 169 reads from 4 value 58 at 17:6:24
+Transaction id 169 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 241 reads from 5 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 215 reads from 4 value 0 at 17:6:24
+Transaction id 214 tries to commit with result commit at 17:6:24
+Transaction id 215 tries to commit with result abort at 17:6:24
+Thread id 140627629217536 Transaction id 220 reads from 1 value 0 at 17:6:24
+Transaction id 213 tries to commit with result abort at 17:6:24
+Transaction id 221 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 232 reads from 1 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 233 reads from 8 value 0 at 17:6:24
+Thread id 140627612432128 Transaction id 202 reads from 5 value 0 at 17:6:24
+Transaction id 202 tries to commit with result abort at 17:6:24
+Thread id 140627186525952 Transaction id 229 reads from 8 value 0 at 17:6:24
+Thread id 140627587254016 Transaction id 235 reads from 7 value 10 at 17:6:24
+Thread id 140627169740544 Transaction id 224 reads from 9 value 54 at 17:6:24
+Thread id 140627646002944 Transaction id 244 reads from 7 value 10 at 17:6:24
+Thread id 140627646002944 Transaction id 244 writes to 7 value 35 at 17:6:24
+Thread id 140626926352128 Transaction id 245 reads from 2 value 0 at 17:6:24
+Transaction id 226 tries to commit with result abort at 17:6:24
+Thread id 140626926352128 Transaction id 245 writes to 2 value 16 at 17:6:24
+Thread id 140627152955136 Transaction id 247 reads from 8 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 244 reads from 4 value 0 at 17:6:24
+Transaction id 222 tries to commit with result abort at 17:6:24
+Thread id 140627161347840 Transaction id 237 reads from 5 value 0 at 17:6:24
+Transaction id 244 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 227 reads from 7 value 10 at 17:6:24
+Thread id 140627127777024 Transaction id 216 reads from 4 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 217 reads from 5 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 190 reads from 1 value 0 at 17:6:24
+Transaction id 190 tries to commit with result abort at 17:6:24
+Thread id 140626976708352 Transaction id 249 writes to 4 value 99 at 17:6:24
+Thread id 140626825836288 Transaction id 238 reads from 7 value 10 at 17:6:24
+Thread id 140627085813504 Transaction id 230 writes to 0 value 4 at 17:6:24
+Thread id 140627027064576 Transaction id 234 reads from 5 value 0 at 17:6:24
+Thread id 140627220096768 Transaction id 239 reads from 9 value 0 at 17:6:24
+Thread id 140627220096768 Transaction id 239 writes to 9 value 45 at 17:6:24
+Thread id 140626934744832 Transaction id 240 reads from 3 value 0 at 17:6:24
+Thread id 140626934744832 Transaction id 240 writes to 3 value 35 at 17:6:24
+Transaction id 241 tries to commit with result abort at 17:6:24
+Transaction id 220 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 231 reads from 2 value 0 at 17:6:24
+Transaction id 231 tries to commit with result abort at 17:6:24
+Transaction id 233 tries to commit with result abort at 17:6:24
+Transaction id 232 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 243 reads from 9 value 0 at 17:6:24
+Transaction id 229 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 243 writes to 9 value 82 at 17:6:24
+Transaction id 235 tries to commit with result abort at 17:6:24
+Thread id 140626934744832 Transaction id 240 reads from 9 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 236 reads from 7 value 10 at 17:6:24
+Transaction id 236 tries to commit with result abort at 17:6:24
+Thread id 140627637610240 Transaction id 257 reads from 2 value 0 at 17:6:24
+Thread id 140627637610240 Transaction id 257 writes to 2 value 5 at 17:6:24
+Thread id 140627152955136 Transaction id 247 writes to 8 value 77 at 17:6:24
+Transaction id 225 tries to commit with result abort at 17:6:24
+Thread id 140626926352128 Transaction id 245 reads from 2 value 0 at 17:6:24
+Thread id 140627035457280 Transaction id 246 writes to 5 value 87 at 17:6:24
+Thread id 140627620824832 Transaction id 258 reads from 0 value 0 at 17:6:24
+Thread id 140627637610240 Transaction id 257 reads from 3 value 0 at 17:6:24
+Thread id 140627637610240 Transaction id 257 writes to 3 value 17 at 17:6:24
+Transaction id 227 tries to commit with result abort at 17:6:24
+Thread id 140627646002944 Transaction id 259 reads from 9 value 0 at 17:6:24
+Transaction id 217 tries to commit with result abort at 17:6:24
+Thread id 140627637610240 Transaction id 257 reads from 8 value 0 at 17:6:24
+Transaction id 234 tries to commit with result abort at 17:6:24
+Thread id 140627637610240 Transaction id 257 writes to 8 value 90 at 17:6:24
+Thread id 140626976708352 Transaction id 249 reads from 3 value 0 at 17:6:24
+Transaction id 249 tries to commit with result abort at 17:6:24
+Thread id 140627085813504 Transaction id 230 reads from 6 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 242 reads from 2 value 0 at 17:6:24
+Thread id 140627637610240 Transaction id 257 reads from 6 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 253 reads from 6 value 0 at 17:6:24
+Transaction id 253 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 261 reads from 2 value 0 at 17:6:24
+Thread id 140627220096768 Transaction id 239 reads from 8 value 0 at 17:6:24
+Transaction id 239 tries to commit with result abort at 17:6:24
+Thread id 140626909566720 Transaction id 255 reads from 8 value 0 at 17:6:24
+Transaction id 255 tries to commit with result abort at 17:6:24
+Transaction id 224 tries to commit with result abort at 17:6:24
+Thread id 140627119384320 Transaction id 208 reads from 6 value 0 at 17:6:24
+Thread id 140627587254016 Transaction id 267 reads from 4 value 0 at 17:6:24
+Transaction id 240 tries to commit with result abort at 17:6:24
+Thread id 140627587254016 Transaction id 267 writes to 4 value 43 at 17:6:24
+Thread id 140627595646720 Transaction id 248 reads from 3 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 243 reads from 2 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 269 reads from 8 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 269 writes to 8 value 27 at 17:6:24
+Transaction id 245 tries to commit with result abort at 17:6:24
+Thread id 140627587254016 Transaction id 267 reads from 4 value 0 at 17:6:24
+Thread id 140627620824832 Transaction id 258 writes to 0 value 24 at 17:6:24
+Thread id 140626926352128 Transaction id 279 reads from 8 value 0 at 17:6:24
+Transaction id 216 tries to commit with result abort at 17:6:24
+Thread id 140626926352128 Transaction id 279 writes to 8 value 25 at 17:6:24
+Thread id 140626985101056 Transaction id 269 reads from 9 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 260 reads from 8 value 0 at 17:6:24
+Transaction id 238 tries to commit with result abort at 17:6:24
+Transaction id 260 tries to commit with result abort at 17:6:24
+Thread id 140626968315648 Transaction id 250 reads from 2 value 0 at 17:6:24
+Thread id 140626926352128 Transaction id 279 reads from 0 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 251 reads from 3 value 0 at 17:6:24
+Transaction id 251 tries to commit with result abort at 17:6:24
+Thread id 140626976708352 Transaction id 273 reads from 1 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 252 reads from 6 value 0 at 17:6:24
+Transaction id 242 tries to commit with result abort at 17:6:24
+Transaction id 252 tries to commit with result abort at 17:6:24
+Thread id 140627637610240 Transaction id 257 writes to 6 value 79 at 17:6:24
+Thread id 140626993493760 Transaction id 254 reads from 0 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 261 writes to 2 value 81 at 17:6:24
+Thread id 140627220096768 Transaction id 275 reads from 6 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 274 reads from 6 value 0 at 17:6:24
+Thread id 140627637610240 Transaction id 257 reads from 7 value 0 at 17:6:24
+Thread id 140627069028096 Transaction id 263 reads from 3 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 264 reads from 0 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 265 reads from 5 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 277 reads from 6 value 0 at 17:6:24
+Thread id 140627186525952 Transaction id 266 reads from 6 value 0 at 17:6:24
+Transaction id 266 tries to commit with result abort at 17:6:24
+Thread id 140627186525952 Transaction id 286 reads from 2 value 0 at 17:6:24
+Thread id 140627186525952 Transaction id 286 writes to 2 value 17 at 17:6:24
+Thread id 140627654395648 Transaction id 268 reads from 6 value 0 at 17:6:24
+Transaction id 268 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 287 reads from 8 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 287 writes to 8 value 25 at 17:6:24
+Transaction id 237 tries to commit with result abort at 17:6:24
+Transaction id 248 tries to commit with result abort at 17:6:24
+Thread id 140627587254016 Transaction id 267 writes to 4 value 66 at 17:6:24
+Transaction id 243 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 270 reads from 5 value 0 at 17:6:24
+Thread id 140627620824832 Transaction id 258 reads from 1 value 0 at 17:6:24
+Transaction id 259 tries to commit with result abort at 17:6:24
+Thread id 140627035457280 Transaction id 246 reads from 2 value 0 at 17:6:24
+Thread id 140627587254016 Transaction id 267 reads from 3 value 0 at 17:6:24
+Transaction id 246 tries to commit with result abort at 17:6:24
+Thread id 140627203311360 Transaction id 271 reads from 6 value 0 at 17:6:24
+Transaction id 271 tries to commit with result abort at 17:6:24
+Transaction id 250 tries to commit with result abort at 17:6:24
+Thread id 140627203311360 Transaction id 293 reads from 4 value 0 at 17:6:24
+Transaction id 230 tries to commit with result abort at 17:6:24
+Thread id 140627203311360 Transaction id 293 writes to 4 value 9 at 17:6:24
+Thread id 140627018671872 Transaction id 283 reads from 0 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 283 writes to 0 value 53 at 17:6:24
+Transaction id 254 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 261 reads from 4 value 0 at 17:6:24
+Transaction id 275 tries to commit with result abort at 17:6:24
+Transaction id 274 tries to commit with result abort at 17:6:24
+Transaction id 261 tries to commit with result abort at 17:6:24
+Thread id 140627220096768 Transaction id 297 reads from 4 value 0 at 17:6:24
+Transaction id 263 tries to commit with result abort at 17:6:24
+Transaction id 265 tries to commit with result abort at 17:6:24
+Transaction id 264 tries to commit with result abort at 17:6:24
+Thread id 140627220096768 Transaction id 297 writes to 4 value 40 at 17:6:24
+Thread id 140627060635392 Transaction id 301 reads from 8 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 301 writes to 8 value 18 at 17:6:24
+Thread id 140627152955136 Transaction id 247 reads from 1 value 0 at 17:6:24
+Transaction id 247 tries to commit with result abort at 17:6:24
+Thread id 140627595646720 Transaction id 289 reads from 4 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 290 reads from 0 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 269 writes to 9 value 63 at 17:6:24
+Thread id 140627010279168 Transaction id 290 writes to 0 value 6 at 17:6:24
+Thread id 140627144562432 Transaction id 270 writes to 5 value 93 at 17:6:24
+Thread id 140627127777024 Transaction id 280 reads from 6 value 0 at 17:6:24
+Transaction id 258 tries to commit with result abort at 17:6:24
+Thread id 140627587254016 Transaction id 267 writes to 3 value 16 at 17:6:24
+Thread id 140627127777024 Transaction id 280 writes to 6 value 100 at 17:6:24
+Thread id 140627604039424 Transaction id 282 reads from 0 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 270 reads from 3 value 0 at 17:6:24
+Transaction id 279 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 270 writes to 3 value 64 at 17:6:24
+Thread id 140626976708352 Transaction id 273 writes to 1 value 53 at 17:6:24
+Thread id 140626926352128 Transaction id 305 reads from 6 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 295 reads from 5 value 0 at 17:6:24
+Thread id 140627612432128 Transaction id 256 reads from 7 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 273 reads from 0 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 293 reads from 7 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 293 writes to 7 value 3 at 17:6:24
+Thread id 140626993493760 Transaction id 296 reads from 4 value 0 at 17:6:24
+Transaction id 257 tries to commit with result abort at 17:6:24
+Transaction id 296 tries to commit with result abort at 17:6:24
+Thread id 140626909566720 Transaction id 276 reads from 4 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 293 reads from 8 value 0 at 17:6:24
+Transaction id 277 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 299 reads from 6 value 0 at 17:6:24
+Transaction id 208 tries to commit with result abort at 17:6:24
+Transaction id 299 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 300 reads from 0 value 0 at 17:6:24
+Transaction id 286 tries to commit with result commit at 17:6:24
+Thread id 140627069028096 Transaction id 300 writes to 0 value 98 at 17:6:24
+Thread id 140626934744832 Transaction id 278 reads from 5 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 302 reads from 5 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 287 reads from 5 value 0 at 17:6:24
+Transaction id 297 tries to commit with result commit at 17:6:24
+Transaction id 287 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 301 reads from 6 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 291 reads from 6 value 0 at 17:6:24
+Transaction id 291 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 281 reads from 5 value 0 at 17:6:24
+Transaction id 281 tries to commit with result abort at 17:6:24
+Thread id 140626985101056 Transaction id 269 reads from 9 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 290 reads from 6 value 0 at 17:6:24
+Thread id 140627027064576 Transaction id 272 reads from 0 value 0 at 17:6:24
+Transaction id 282 tries to commit with result abort at 17:6:24
+Thread id 140627587254016 Transaction id 267 reads from 0 value 0 at 17:6:24
+Thread id 140626926352128 Transaction id 305 writes to 6 value 60 at 17:6:24
+Transaction id 272 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 270 reads from 6 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 285 reads from 1 value 0 at 17:6:24
+Transaction id 273 tries to commit with result abort at 17:6:24
+Transaction id 256 tries to commit with result abort at 17:6:24
+Thread id 140627094206208 Transaction id 285 writes to 1 value 35 at 17:6:24
+Thread id 140626976708352 Transaction id 316 reads from 0 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 316 writes to 0 value 5 at 17:6:24
+Transaction id 293 tries to commit with result abort at 17:6:24
+Transaction id 276 tries to commit with result abort at 17:6:24
+Thread id 140627018671872 Transaction id 283 reads from 5 value 0 at 17:6:24
+Thread id 140626909566720 Transaction id 319 reads from 8 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 316 reads from 8 value 0 at 17:6:24
+Transaction id 316 tries to commit with result abort at 17:6:24
+Transaction id 278 tries to commit with result abort at 17:6:24
+Thread id 140626959922944 Transaction id 302 writes to 5 value 74 at 17:6:24
+Thread id 140626976708352 Transaction id 320 reads from 9 value 0 at 17:6:24
+Thread id 140627152955136 Transaction id 303 reads from 0 value 0 at 17:6:24
+Transaction id 289 tries to commit with result abort at 17:6:24
+Transaction id 303 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 300 reads from 1 value 0 at 17:6:24
+Thread id 140627035457280 Transaction id 292 reads from 6 value 0 at 17:6:24
+Transaction id 292 tries to commit with result abort at 17:6:24
+Thread id 140627620824832 Transaction id 304 reads from 5 value 0 at 17:6:24
+Thread id 140627620824832 Transaction id 304 writes to 5 value 34 at 17:6:24
+Thread id 140626825836288 Transaction id 313 reads from 5 value 0 at 17:6:24
+Transaction id 290 tries to commit with result abort at 17:6:24
+Thread id 140626968315648 Transaction id 294 reads from 7 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 284 reads from 2 value 0 at 17:6:24
+Transaction id 304 tries to commit with result commit at 17:6:24
+Transaction id 267 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 314 reads from 4 value 40 at 17:6:24
+Transaction id 295 tries to commit with result abort at 17:6:24
+Transaction id 270 tries to commit with result abort at 17:6:24
+Thread id 140627027064576 Transaction id 315 reads from 2 value 17 at 17:6:24
+Thread id 140626926352128 Transaction id 305 reads from 4 value 40 at 17:6:24
+Thread id 140627629217536 Transaction id 262 reads from 3 value 0 at 17:6:24
+Thread id 140627637610240 Transaction id 306 reads from 6 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 307 reads from 7 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 307 writes to 7 value 30 at 17:6:24
+Thread id 140627077420800 Transaction id 298 reads from 7 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 308 reads from 0 value 0 at 17:6:24
+Transaction id 283 tries to commit with result abort at 17:6:24
+Transaction id 308 tries to commit with result abort at 17:6:24
+Thread id 140627094206208 Transaction id 285 reads from 1 value 0 at 17:6:24
+Transaction id 285 tries to commit with result abort at 17:6:24
+Thread id 140626909566720 Transaction id 319 writes to 8 value 30 at 17:6:24
+Thread id 140627136169728 Transaction id 310 reads from 2 value 17 at 17:6:24
+Thread id 140626976708352 Transaction id 320 writes to 9 value 69 at 17:6:24
+Transaction id 310 tries to commit with result abort at 17:6:24
+Thread id 140627161347840 Transaction id 288 reads from 2 value 17 at 17:6:24
+Thread id 140627136169728 Transaction id 332 reads from 5 value 34 at 17:6:24
+Transaction id 301 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 332 writes to 5 value 98 at 17:6:24
+Thread id 140626909566720 Transaction id 319 reads from 9 value 0 at 17:6:24
+Transaction id 319 tries to commit with result abort at 17:6:24
+Thread id 140627152955136 Transaction id 323 reads from 5 value 34 at 17:6:24
+Thread id 140627646002944 Transaction id 312 reads from 5 value 34 at 17:6:24
+Thread id 140627136169728 Transaction id 332 reads from 4 value 40 at 17:6:24
+Transaction id 269 tries to commit with result abort at 17:6:24
+Transaction id 313 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 332 writes to 4 value 131 at 17:6:24
+Thread id 140627127777024 Transaction id 280 reads from 0 value 0 at 17:6:24
+Transaction id 314 tries to commit with result abort at 17:6:24
+Thread id 140627587254016 Transaction id 326 reads from 0 value 0 at 17:6:24
+Transaction id 284 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 328 reads from 8 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 328 writes to 8 value 24 at 17:6:24
+Transaction id 262 tries to commit with result abort at 17:6:24
+Thread id 140627637610240 Transaction id 306 writes to 6 value 80 at 17:6:24
+Thread id 140627027064576 Transaction id 315 writes to 2 value 62 at 17:6:24
+Transaction id 305 tries to commit with result abort at 17:6:24
+Thread id 140627612432128 Transaction id 317 reads from 2 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 309 reads from 4 value 40 at 17:6:24
+Thread id 140626993493760 Transaction id 307 reads from 2 value 17 at 17:6:24
+Transaction id 307 tries to commit with result abort at 17:6:24
+Thread id 140627018671872 Transaction id 329 reads from 5 value 34 at 17:6:24
+Transaction id 329 tries to commit with result abort at 17:6:24
+Thread id 140626934744832 Transaction id 321 reads from 3 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 311 reads from 1 value 0 at 17:6:24
+Transaction id 288 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 311 writes to 1 value 61 at 17:6:24
+Thread id 140626959922944 Transaction id 302 reads from 9 value 0 at 17:6:24
+Thread id 140627595646720 Transaction id 322 reads from 4 value 40 at 17:6:24
+Thread id 140626976708352 Transaction id 320 reads from 4 value 40 at 17:6:24
+Transaction id 300 tries to commit with result abort at 17:6:24
+Transaction id 323 tries to commit with result abort at 17:6:24
+Transaction id 320 tries to commit with result abort at 17:6:24
+Thread id 140626909566720 Transaction id 334 reads from 6 value 0 at 17:6:24
+Transaction id 312 tries to commit with result abort at 17:6:24
+Thread id 140626909566720 Transaction id 334 writes to 6 value 86 at 17:6:24
+Thread id 140627010279168 Transaction id 325 reads from 9 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 335 reads from 3 value 0 at 17:6:24
+Transaction id 294 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 336 reads from 4 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 336 writes to 4 value 16 at 17:6:24
+Thread id 140627085813504 Transaction id 327 reads from 5 value 34 at 17:6:24
+Transaction id 327 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 338 reads from 8 value 0 at 17:6:24
+Thread id 140627629217536 Transaction id 339 reads from 2 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 318 reads from 1 value 0 at 17:6:24
+Thread id 140626926352128 Transaction id 340 reads from 9 value 0 at 17:6:24
+Thread id 140626926352128 Transaction id 340 writes to 9 value 39 at 17:6:24
+Transaction id 317 tries to commit with result abort at 17:6:24
+Transaction id 298 tries to commit with result abort at 17:6:24
+Transaction id 309 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 328 reads from 1 value 0 at 17:6:24
+Thread id 140627027064576 Transaction id 315 reads from 2 value 0 at 17:6:24
+Transaction id 306 tries to commit with result commit at 17:6:24
+Transaction id 315 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 328 writes to 1 value 32 at 17:6:24
+Thread id 140627169740544 Transaction id 330 reads from 6 value 80 at 17:6:24
+Thread id 140627018671872 Transaction id 342 reads from 5 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 333 reads from 8 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 328 reads from 4 value 40 at 17:6:24
+Transaction id 302 tries to commit with result abort at 17:6:24
+Transaction id 328 tries to commit with result abort at 17:6:24
+Transaction id 322 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 311 reads from 0 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 355 reads from 0 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 355 writes to 0 value 40 at 17:6:24
+Thread id 140626976708352 Transaction id 346 reads from 5 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 335 writes to 3 value 55 at 17:6:24
+Transaction id 280 tries to commit with result abort at 17:6:24
+Transaction id 334 tries to commit with result commit at 17:6:24
+Thread id 140627604039424 Transaction id 337 reads from 1 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 337 writes to 1 value 36 at 17:6:24
+Thread id 140626825836288 Transaction id 336 reads from 7 value 0 at 17:6:24
+Transaction id 318 tries to commit with result abort at 17:6:24
+Thread id 140626976708352 Transaction id 346 writes to 5 value 21 at 17:6:24
+Thread id 140627629217536 Transaction id 339 writes to 2 value 30 at 17:6:24
+Thread id 140627077420800 Transaction id 351 reads from 5 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 337 reads from 2 value 0 at 17:6:24
+Transaction id 337 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 336 writes to 7 value 80 at 17:6:24
+Thread id 140627110991616 Transaction id 338 writes to 8 value 94 at 17:6:24
+Thread id 140626926352128 Transaction id 340 reads from 6 value 86 at 17:6:24
+Thread id 140627629217536 Transaction id 339 reads from 1 value 0 at 17:6:24
+Thread id 140627629217536 Transaction id 339 writes to 1 value 32 at 17:6:24
+Transaction id 342 tries to commit with result abort at 17:6:24
+Transaction id 333 tries to commit with result abort at 17:6:24
+Thread id 140627161347840 Transaction id 343 reads from 7 value 0 at 17:6:24
+Thread id 140627161347840 Transaction id 343 writes to 7 value 40 at 17:6:24
+Transaction id 330 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 344 reads from 2 value 0 at 17:6:24
+Transaction id 339 tries to commit with result commit at 17:6:24
+Thread id 140627069028096 Transaction id 344 writes to 2 value 6 at 17:6:24
+Thread id 140627152955136 Transaction id 345 reads from 5 value 0 at 17:6:24
+Transaction id 311 tries to commit with result abort at 17:6:24
+Transaction id 345 tries to commit with result abort at 17:6:24
+Transaction id 325 tries to commit with result abort at 17:6:24
+Thread id 140627161347840 Transaction id 343 reads from 9 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 348 reads from 4 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 348 writes to 4 value 57 at 17:6:24
+Thread id 140627127777024 Transaction id 357 reads from 5 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 355 reads from 9 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 335 reads from 5 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 332 reads from 0 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 349 reads from 2 value 0 at 17:6:24
+Thread id 140627612432128 Transaction id 350 reads from 8 value 0 at 17:6:24
+Thread id 140627612432128 Transaction id 350 writes to 8 value 28 at 17:6:24
+Thread id 140626993493760 Transaction id 341 reads from 3 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 358 reads from 5 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 358 writes to 5 value 47 at 17:6:24
+Transaction id 351 tries to commit with result abort at 17:6:24
+Thread id 140626976708352 Transaction id 346 reads from 3 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 346 writes to 3 value 27 at 17:6:24
+Thread id 140626926352128 Transaction id 340 writes to 6 value 167 at 17:6:24
+Transaction id 321 tries to commit with result abort at 17:6:24
+Thread id 140627018671872 Transaction id 360 reads from 7 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 336 reads from 8 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 338 reads from 6 value 86 at 17:6:24
+Transaction id 338 tries to commit with result abort at 17:6:24
+Thread id 140627595646720 Transaction id 356 reads from 3 value 0 at 17:6:24
+Thread id 140627595646720 Transaction id 356 writes to 3 value 87 at 17:6:24
+Thread id 140627169740544 Transaction id 362 reads from 5 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 347 reads from 4 value 0 at 17:6:24
+Transaction id 347 tries to commit with result abort at 17:6:24
+Thread id 140627152955136 Transaction id 364 reads from 5 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 365 reads from 3 value 0 at 17:6:24
+Thread id 140627069028096 Transaction id 344 reads from 2 value 0 at 17:6:24
+Transaction id 326 tries to commit with result abort at 17:6:24
+Transaction id 357 tries to commit with result abort at 17:6:24
+Transaction id 344 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 355 writes to 9 value 70 at 17:6:24
+Thread id 140627587254016 Transaction id 370 reads from 1 value 32 at 17:6:24
+Thread id 140627587254016 Transaction id 370 writes to 1 value 68 at 17:6:24
+Transaction id 332 tries to commit with result abort at 17:6:24
+Thread id 140627119384320 Transaction id 352 reads from 7 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 349 writes to 2 value 53 at 17:6:24
+Transaction id 341 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 373 reads from 7 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 331 reads from 3 value 0 at 17:6:24
+Transaction id 350 tries to commit with result commit at 17:6:24
+Transaction id 331 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 359 reads from 5 value 0 at 17:6:24
+Transaction id 359 tries to commit with result abort at 17:6:24
+Thread id 140626959922944 Transaction id 354 reads from 6 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 358 reads from 9 value 0 at 17:6:24
+Transaction id 360 tries to commit with result abort at 17:6:24
+Thread id 140626976708352 Transaction id 346 reads from 2 value 0 at 17:6:24
+Transaction id 336 tries to commit with result abort at 17:6:24
+Thread id 140626926352128 Transaction id 340 reads from 9 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 361 reads from 0 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 361 writes to 0 value 82 at 17:6:24
+Thread id 140627035457280 Transaction id 324 reads from 6 value 80 at 17:6:24
+Transaction id 362 tries to commit with result abort at 17:6:24
+Transaction id 324 tries to commit with result abort at 17:6:24
+Transaction id 356 tries to commit with result commit at 17:6:24
+Thread id 140627646002944 Transaction id 369 reads from 9 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 365 writes to 3 value 89 at 17:6:24
+Thread id 140626968315648 Transaction id 348 reads from 6 value 0 at 17:6:24
+Transaction id 335 tries to commit with result abort at 17:6:24
+Transaction id 352 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 355 reads from 7 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 349 reads from 2 value 0 at 17:6:24
+Thread id 140627587254016 Transaction id 370 reads from 1 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 373 writes to 7 value 55 at 17:6:24
+Thread id 140627077420800 Transaction id 366 reads from 5 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 366 writes to 5 value 28 at 17:6:24
+Thread id 140627094206208 Transaction id 375 reads from 0 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 354 writes to 6 value 71 at 17:6:24
+Thread id 140627094206208 Transaction id 375 writes to 0 value 85 at 17:6:24
+Transaction id 358 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 373 reads from 0 value 0 at 17:6:24
+Transaction id 373 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 378 reads from 4 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 368 reads from 7 value 0 at 17:6:24
+Transaction id 368 tries to commit with result abort at 17:6:24
+Transaction id 343 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 363 reads from 9 value 0 at 17:6:24
+Transaction id 363 tries to commit with result abort at 17:6:24
+Thread id 140627035457280 Transaction id 380 reads from 1 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 369 writes to 9 value 7 at 17:6:24
+Thread id 140627035457280 Transaction id 380 writes to 1 value 37 at 17:6:24
+Transaction id 348 tries to commit with result abort at 17:6:24
+Thread id 140627127777024 Transaction id 371 reads from 2 value 0 at 17:6:24
+Thread id 140627027064576 Transaction id 353 reads from 6 value 0 at 17:6:24
+Thread id 140627069028096 Transaction id 372 reads from 9 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 381 reads from 6 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 381 writes to 6 value 5 at 17:6:24
+Thread id 140627010279168 Transaction id 365 reads from 3 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 374 reads from 5 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 374 writes to 5 value 58 at 17:6:24
+Transaction id 355 tries to commit with result abort at 17:6:24
+Transaction id 349 tries to commit with result abort at 17:6:24
+Transaction id 370 tries to commit with result abort at 17:6:24
+Thread id 140626985101056 Transaction id 381 reads from 0 value 0 at 17:6:24
+Thread id 140626934744832 Transaction id 367 reads from 8 value 28 at 17:6:24
+Transaction id 346 tries to commit with result abort at 17:6:24
+Thread id 140626993493760 Transaction id 374 reads from 3 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 366 reads from 2 value 0 at 17:6:24
+Transaction id 366 tries to commit with result abort at 17:6:24
+Thread id 140627203311360 Transaction id 383 reads from 7 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 383 writes to 7 value 73 at 17:6:24
+Thread id 140626825836288 Transaction id 378 writes to 4 value 73 at 17:6:24
+Thread id 140627018671872 Transaction id 377 reads from 8 value 28 at 17:6:24
+Transaction id 364 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 361 reads from 4 value 0 at 17:6:24
+Transaction id 361 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 387 reads from 7 value 0 at 17:6:24
+Thread id 140627127777024 Transaction id 371 writes to 2 value 50 at 17:6:24
+Thread id 140627646002944 Transaction id 369 reads from 4 value 0 at 17:6:24
+Transaction id 353 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 372 writes to 9 value 35 at 17:6:24
+Transaction id 380 tries to commit with result commit at 17:6:24
+Thread id 140627119384320 Transaction id 382 reads from 7 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 376 reads from 4 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 381 writes to 0 value 5 at 17:6:24
+Transaction id 365 tries to commit with result abort at 17:6:24
+Transaction id 367 tries to commit with result abort at 17:6:24
+Thread id 140626959922944 Transaction id 354 reads from 5 value 0 at 17:6:24
+Transaction id 354 tries to commit with result abort at 17:6:24
+Transaction id 340 tries to commit with result abort at 17:6:24
+Thread id 140626993493760 Transaction id 374 writes to 3 value 35 at 17:6:24
+Thread id 140627077420800 Transaction id 393 reads from 4 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 385 reads from 4 value 0 at 17:6:24
+Thread id 140627161347840 Transaction id 386 reads from 8 value 28 at 17:6:24
+Thread id 140627203311360 Transaction id 383 reads from 0 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 383 writes to 0 value 5 at 17:6:24
+Thread id 140627152955136 Transaction id 394 reads from 7 value 0 at 17:6:24
+Thread id 140627152955136 Transaction id 394 writes to 7 value 62 at 17:6:24
+Transaction id 387 tries to commit with result abort at 17:6:24
+Transaction id 369 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 401 reads from 5 value 0 at 17:6:24
+Transaction id 382 tries to commit with result abort at 17:6:24
+Thread id 140627127777024 Transaction id 371 reads from 8 value 28 at 17:6:24
+Transaction id 371 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 372 reads from 1 value 0 at 17:6:24
+Transaction id 376 tries to commit with result abort at 17:6:24
+Transaction id 372 tries to commit with result abort at 17:6:24
+Thread id 140626976708352 Transaction id 392 reads from 6 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 375 reads from 5 value 0 at 17:6:24
+Transaction id 375 tries to commit with result abort at 17:6:24
+Transaction id 377 tries to commit with result abort at 17:6:24
+Thread id 140626926352128 Transaction id 400 reads from 9 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 381 reads from 9 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 384 reads from 3 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 393 writes to 4 value 35 at 17:6:24
+Thread id 140627161347840 Transaction id 386 writes to 8 value 105 at 17:6:24
+Thread id 140627136169728 Transaction id 384 writes to 3 value 73 at 17:6:24
+Transaction id 385 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 378 reads from 6 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 379 reads from 9 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 388 reads from 9 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 395 reads from 1 value 37 at 17:6:24
+Thread id 140627060635392 Transaction id 395 writes to 1 value 118 at 17:6:24
+Thread id 140627144562432 Transaction id 389 reads from 4 value 0 at 17:6:24
+Thread id 140627027064576 Transaction id 396 reads from 6 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 383 reads from 4 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 401 writes to 5 value 85 at 17:6:24
+Transaction id 394 tries to commit with result commit at 17:6:24
+Thread id 140627587254016 Transaction id 391 reads from 1 value 37 at 17:6:24
+Thread id 140627085813504 Transaction id 390 reads from 1 value 37 at 17:6:24
+Thread id 140627654395648 Transaction id 401 reads from 4 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 397 reads from 8 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 397 writes to 8 value 83 at 17:6:24
+Thread id 140626934744832 Transaction id 398 reads from 9 value 0 at 17:6:24
+Transaction id 398 tries to commit with result abort at 17:6:24
+Transaction id 392 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 406 reads from 2 value 0 at 17:6:24
+Thread id 140627069028096 Transaction id 406 writes to 2 value 11 at 17:6:24
+Thread id 140626926352128 Transaction id 400 writes to 9 value 84 at 17:6:24
+Transaction id 381 tries to commit with result abort at 17:6:24
+Thread id 140626993493760 Transaction id 374 reads from 3 value 0 at 17:6:24
+Transaction id 374 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 409 reads from 9 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 393 reads from 9 value 0 at 17:6:24
+Thread id 140627161347840 Transaction id 386 reads from 3 value 0 at 17:6:24
+Transaction id 379 tries to commit with result abort at 17:6:24
+Thread id 140627161347840 Transaction id 386 writes to 3 value 7 at 17:6:24
+Thread id 140627136169728 Transaction id 384 reads from 6 value 0 at 17:6:24
+Transaction id 388 tries to commit with result abort at 17:6:24
+Transaction id 384 tries to commit with result abort at 17:6:24
+Thread id 140627646002944 Transaction id 402 reads from 8 value 0 at 17:6:24
+Transaction id 389 tries to commit with result abort at 17:6:24
+Thread id 140627027064576 Transaction id 396 writes to 6 value 97 at 17:6:24
+Thread id 140627646002944 Transaction id 402 writes to 8 value 97 at 17:6:24
+Thread id 140627060635392 Transaction id 395 reads from 0 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 403 reads from 6 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 403 writes to 6 value 5 at 17:6:24
+Transaction id 390 tries to commit with result abort at 17:6:24
+Transaction id 391 tries to commit with result abort at 17:6:24
+Thread id 140627127777024 Transaction id 404 reads from 5 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 405 reads from 9 value 0 at 17:6:24
+Transaction id 405 tries to commit with result abort at 17:6:24
+Thread id 140626959922944 Transaction id 399 reads from 6 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 397 reads from 3 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 407 reads from 3 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 408 reads from 9 value 0 at 17:6:24
+Transaction id 408 tries to commit with result abort at 17:6:24
+Transaction id 378 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 406 reads from 2 value 0 at 17:6:24
+Thread id 140626926352128 Transaction id 400 reads from 4 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 409 writes to 9 value 49 at 17:6:24
+Transaction id 400 tries to commit with result abort at 17:6:24
+Transaction id 393 tries to commit with result abort at 17:6:24
+Thread id 140627169740544 Transaction id 414 reads from 6 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 414 writes to 6 value 91 at 17:6:24
+Thread id 140627161347840 Transaction id 386 reads from 5 value 0 at 17:6:24
+Transaction id 383 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 395 writes to 0 value 69 at 17:6:24
+Transaction id 386 tries to commit with result abort at 17:6:24
+Thread id 140627119384320 Transaction id 403 reads from 5 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 414 reads from 8 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 401 writes to 4 value 15 at 17:6:24
+Thread id 140627169740544 Transaction id 414 writes to 8 value 85 at 17:6:24
+Thread id 140627646002944 Transaction id 402 reads from 7 value 62 at 17:6:24
+Thread id 140627646002944 Transaction id 402 writes to 7 value 63 at 17:6:24
+Thread id 140627127777024 Transaction id 404 writes to 5 value 13 at 17:6:24
+Thread id 140627587254016 Transaction id 419 reads from 7 value 0 at 17:6:24
+Thread id 140627587254016 Transaction id 419 writes to 7 value 70 at 17:6:24
+Transaction id 399 tries to commit with result abort at 17:6:24
+Transaction id 397 tries to commit with result abort at 17:6:24
+Thread id 140627169740544 Transaction id 414 reads from 2 value 0 at 17:6:24
+Thread id 140626985101056 Transaction id 412 reads from 7 value 0 at 17:6:24
+Transaction id 419 tries to commit with result commit at 17:6:24
+Thread id 140626993493760 Transaction id 413 reads from 7 value 0 at 17:6:24
+Transaction id 406 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 422 reads from 3 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 416 reads from 5 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 409 reads from 6 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 417 reads from 1 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 417 writes to 1 value 69 at 17:6:24
+Thread id 140627203311360 Transaction id 425 reads from 1 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 425 writes to 1 value 4 at 17:6:24
+Thread id 140627060635392 Transaction id 395 reads from 3 value 0 at 17:6:24
+Transaction id 395 tries to commit with result abort at 17:6:24
+Thread id 140627085813504 Transaction id 418 reads from 6 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 425 reads from 3 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 411 reads from 7 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 420 reads from 9 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 401 reads from 8 value 0 at 17:6:24
+Transaction id 407 tries to commit with result abort at 17:6:24
+Transaction id 401 tries to commit with result abort at 17:6:24
+Thread id 140627094206208 Transaction id 431 reads from 6 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 414 writes to 2 value 76 at 17:6:24
+Thread id 140627010279168 Transaction id 428 reads from 4 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 421 reads from 4 value 0 at 17:6:24
+Transaction id 412 tries to commit with result abort at 17:6:24
+Transaction id 413 tries to commit with result abort at 17:6:24
+Thread id 140626985101056 Transaction id 433 reads from 0 value 0 at 17:6:24
+Thread id 140627069028096 Transaction id 429 reads from 6 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 424 reads from 9 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 424 writes to 9 value 8 at 17:6:24
+Thread id 140627136169728 Transaction id 416 writes to 5 value 40 at 17:6:24
+Thread id 140626968315648 Transaction id 415 reads from 9 value 0 at 17:6:24
+Transaction id 409 tries to commit with result abort at 17:6:24
+Transaction id 415 tries to commit with result abort at 17:6:24
+Transaction id 396 tries to commit with result commit at 17:6:24
+Transaction id 403 tries to commit with result abort at 17:6:24
+Thread id 140627077420800 Transaction id 424 reads from 1 value 0 at 17:6:24
+Transaction id 424 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 417 reads from 7 value 0 at 17:6:24
+Transaction id 418 tries to commit with result abort at 17:6:24
+Transaction id 417 tries to commit with result abort at 17:6:24
+Thread id 140626934744832 Transaction id 410 reads from 9 value 0 at 17:6:24
+Transaction id 410 tries to commit with result abort at 17:6:24
+Transaction id 420 tries to commit with result abort at 17:6:24
+Transaction id 411 tries to commit with result abort at 17:6:24
+Thread id 140626934744832 Transaction id 441 reads from 5 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 427 reads from 0 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 402 reads from 4 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 431 writes to 6 value 87 at 17:6:24
+Thread id 140627654395648 Transaction id 432 reads from 6 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 432 writes to 6 value 16 at 17:6:24
+Thread id 140626985101056 Transaction id 433 writes to 0 value 85 at 17:6:24
+Transaction id 421 tries to commit with result abort at 17:6:24
+Thread id 140626993493760 Transaction id 434 reads from 8 value 0 at 17:6:24
+Transaction id 422 tries to commit with result abort at 17:6:24
+Thread id 140626993493760 Transaction id 434 writes to 8 value 8 at 17:6:24
+Thread id 140627161347840 Transaction id 426 reads from 3 value 0 at 17:6:24
+Transaction id 433 tries to commit with result commit at 17:6:24
+Thread id 140627060635392 Transaction id 430 reads from 2 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 434 reads from 0 value 85 at 17:6:24
+Transaction id 425 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 440 reads from 3 value 0 at 17:6:24
+Thread id 140627127777024 Transaction id 404 reads from 6 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 443 reads from 0 value 85 at 17:6:24
+Transaction id 427 tries to commit with result abort at 17:6:24
+Thread id 140627169740544 Transaction id 414 reads from 0 value 0 at 17:6:24
+Transaction id 414 tries to commit with result abort at 17:6:24
+Transaction id 402 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 428 writes to 4 value 99 at 17:6:24
+Thread id 140627169740544 Transaction id 448 reads from 3 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 431 reads from 1 value 0 at 17:6:24
+Thread id 140627094206208 Transaction id 431 writes to 1 value 22 at 17:6:24
+Thread id 140627654395648 Transaction id 432 reads from 3 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 416 reads from 9 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 435 reads from 5 value 0 at 17:6:24
+Transaction id 435 tries to commit with result abort at 17:6:24
+Transaction id 426 tries to commit with result abort at 17:6:24
+Thread id 140626968315648 Transaction id 436 reads from 1 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 437 reads from 0 value 85 at 17:6:24
+Thread id 140627077420800 Transaction id 438 reads from 6 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 430 writes to 2 value 22 at 17:6:24
+Thread id 140627085813504 Transaction id 439 reads from 3 value 0 at 17:6:24
+Transaction id 439 tries to commit with result abort at 17:6:24
+Transaction id 440 tries to commit with result abort at 17:6:24
+Transaction id 404 tries to commit with result abort at 17:6:24
+Thread id 140626934744832 Transaction id 441 writes to 5 value 16 at 17:6:24
+Transaction id 434 tries to commit with result abort at 17:6:24
+Thread id 140627169740544 Transaction id 448 writes to 3 value 41 at 17:6:24
+Thread id 140626959922944 Transaction id 447 reads from 7 value 70 at 17:6:24
+Thread id 140627646002944 Transaction id 449 reads from 9 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 444 reads from 7 value 70 at 17:6:24
+Thread id 140626825836288 Transaction id 445 reads from 6 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 428 reads from 7 value 70 at 17:6:24
+Transaction id 431 tries to commit with result commit at 17:6:24
+Transaction id 416 tries to commit with result abort at 17:6:24
+Transaction id 428 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 456 reads from 2 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 456 writes to 2 value 65 at 17:6:24
+Transaction id 437 tries to commit with result abort at 17:6:24
+Transaction id 438 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 442 reads from 8 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 446 reads from 1 value 22 at 17:6:24
+Thread id 140627085813504 Transaction id 452 reads from 9 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 443 writes to 0 value 129 at 17:6:24
+Thread id 140626926352128 Transaction id 423 reads from 4 value 0 at 17:6:24
+Transaction id 423 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 430 reads from 7 value 70 at 17:6:24
+Thread id 140626976708352 Transaction id 443 reads from 0 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 443 writes to 0 value 41 at 17:6:24
+Transaction id 429 tries to commit with result abort at 17:6:24
+Transaction id 449 tries to commit with result abort at 17:6:24
+Thread id 140626934744832 Transaction id 441 reads from 1 value 22 at 17:6:24
+Thread id 140626959922944 Transaction id 447 writes to 7 value 153 at 17:6:24
+Thread id 140627069028096 Transaction id 461 reads from 0 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 448 reads from 6 value 0 at 17:6:24
+Transaction id 445 tries to commit with result abort at 17:6:24
+Thread id 140627169740544 Transaction id 448 writes to 6 value 31 at 17:6:24
+Transaction id 432 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 450 reads from 8 value 0 at 17:6:24
+Thread id 140627161347840 Transaction id 451 reads from 9 value 0 at 17:6:24
+Transaction id 436 tries to commit with result abort at 17:6:24
+Transaction id 451 tries to commit with result abort at 17:6:24
+Thread id 140627169740544 Transaction id 448 reads from 3 value 0 at 17:6:24
+Transaction id 442 tries to commit with result abort at 17:6:24
+Thread id 140627169740544 Transaction id 448 writes to 3 value 53 at 17:6:24
+Thread id 140627136169728 Transaction id 456 reads from 8 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 446 writes to 1 value 109 at 17:6:24
+Thread id 140627144562432 Transaction id 453 reads from 7 value 0 at 17:6:24
+Thread id 140627085813504 Transaction id 452 writes to 9 value 76 at 17:6:24
+Thread id 140627127777024 Transaction id 454 reads from 5 value 0 at 17:6:24
+Thread id 140627127777024 Transaction id 454 writes to 5 value 48 at 17:6:24
+Transaction id 430 tries to commit with result abort at 17:6:24
+Thread id 140626976708352 Transaction id 443 reads from 0 value 0 at 17:6:24
+Transaction id 441 tries to commit with result abort at 17:6:24
+Transaction id 444 tries to commit with result abort at 17:6:24
+Thread id 140627069028096 Transaction id 461 writes to 0 value 23 at 17:6:24
+Transaction id 443 tries to commit with result abort at 17:6:24
+Thread id 140627127777024 Transaction id 454 reads from 9 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 447 reads from 9 value 0 at 17:6:24
+Transaction id 447 tries to commit with result abort at 17:6:24
+Transaction id 450 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 464 reads from 3 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 464 writes to 3 value 69 at 17:6:24
+Thread id 140627077420800 Transaction id 459 reads from 7 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 459 writes to 7 value 57 at 17:6:24
+Thread id 140626968315648 Transaction id 465 reads from 1 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 456 writes to 8 value 67 at 17:6:24
+Thread id 140626968315648 Transaction id 465 writes to 1 value 69 at 17:6:24
+Thread id 140627654395648 Transaction id 464 reads from 9 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 459 reads from 6 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 446 reads from 4 value 0 at 17:6:24
+Thread id 140626926352128 Transaction id 460 reads from 5 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 455 reads from 5 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 462 reads from 9 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 468 reads from 9 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 468 writes to 9 value 82 at 17:6:24
+Transaction id 452 tries to commit with result commit at 17:6:24
+Thread id 140626934744832 Transaction id 469 reads from 2 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 463 reads from 1 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 468 reads from 6 value 0 at 17:6:24
+Transaction id 454 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 468 writes to 6 value 70 at 17:6:24
+Thread id 140626959922944 Transaction id 472 reads from 8 value 0 at 17:6:24
+Thread id 140627069028096 Transaction id 461 reads from 5 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 458 reads from 2 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 457 reads from 0 value 0 at 17:6:24
+Transaction id 457 tries to commit with result abort at 17:6:24
+Transaction id 453 tries to commit with result abort at 17:6:24
+Thread id 140627169740544 Transaction id 448 reads from 2 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 456 reads from 2 value 0 at 17:6:24
+Transaction id 459 tries to commit with result abort at 17:6:24
+Thread id 140627203311360 Transaction id 446 writes to 4 value 77 at 17:6:24
+Transaction id 460 tries to commit with result abort at 17:6:24
+Transaction id 456 tries to commit with result abort at 17:6:24
+Thread id 140627077420800 Transaction id 477 reads from 4 value 0 at 17:6:24
+Thread id 140626934744832 Transaction id 469 writes to 2 value 32 at 17:6:24
+Transaction id 463 tries to commit with result abort at 17:6:24
+Thread id 140626959922944 Transaction id 472 writes to 8 value 22 at 17:6:24
+Transaction id 455 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 468 reads from 8 value 0 at 17:6:24
+Thread id 140627069028096 Transaction id 461 writes to 5 value 100 at 17:6:24
+Thread id 140627161347840 Transaction id 466 reads from 9 value 76 at 17:6:24
+Thread id 140627604039424 Transaction id 467 reads from 2 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 475 reads from 1 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 475 writes to 1 value 2 at 17:6:24
+Transaction id 448 tries to commit with result abort at 17:6:24
+Transaction id 464 tries to commit with result abort at 17:6:24
+Thread id 140626968315648 Transaction id 465 reads from 1 value 0 at 17:6:24
+Transaction id 462 tries to commit with result abort at 17:6:24
+Transaction id 465 tries to commit with result abort at 17:6:24
+Thread id 140627077420800 Transaction id 477 writes to 4 value 33 at 17:6:24
+Thread id 140627136169728 Transaction id 479 reads from 2 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 473 reads from 4 value 0 at 17:6:24
+Thread id 140627127777024 Transaction id 474 reads from 5 value 0 at 17:6:24
+Thread id 140627127777024 Transaction id 474 writes to 5 value 51 at 17:6:24
+Transaction id 458 tries to commit with result abort at 17:6:24
+Thread id 140627203311360 Transaction id 446 reads from 7 value 70 at 17:6:24
+Transaction id 446 tries to commit with result abort at 17:6:24
+Transaction id 469 tries to commit with result commit at 17:6:24
+Thread id 140626993493760 Transaction id 481 reads from 1 value 0 at 17:6:24
+Transaction id 466 tries to commit with result abort at 17:6:24
+Thread id 140626993493760 Transaction id 481 writes to 1 value 97 at 17:6:24
+Transaction id 467 tries to commit with result abort at 17:6:24
+Transaction id 461 tries to commit with result commit at 17:6:24
+Thread id 140627144562432 Transaction id 476 reads from 8 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 482 reads from 8 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 484 reads from 0 value 23 at 17:6:24
+Thread id 140626976708352 Transaction id 471 reads from 3 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 470 reads from 6 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 470 writes to 6 value 50 at 17:6:24
+Thread id 140627136169728 Transaction id 479 writes to 2 value 45 at 17:6:24
+Thread id 140627010279168 Transaction id 475 reads from 1 value 0 at 17:6:24
+Transaction id 473 tries to commit with result abort at 17:6:24
+Transaction id 475 tries to commit with result abort at 17:6:24
+Thread id 140627077420800 Transaction id 477 reads from 6 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 480 reads from 7 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 480 writes to 7 value 12 at 17:6:24
+Transaction id 468 tries to commit with result abort at 17:6:24
+Thread id 140627119384320 Transaction id 486 reads from 7 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 472 reads from 0 value 23 at 17:6:24
+Transaction id 472 tries to commit with result abort at 17:6:24
+Thread id 140627161347840 Transaction id 488 reads from 8 value 0 at 17:6:24
+Thread id 140627161347840 Transaction id 488 writes to 8 value 7 at 17:6:24
+Thread id 140627654395648 Transaction id 483 reads from 3 value 0 at 17:6:24
+Transaction id 476 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 483 writes to 3 value 21 at 17:6:24
+Thread id 140626993493760 Transaction id 481 reads from 4 value 0 at 17:6:24
+Transaction id 482 tries to commit with result abort at 17:6:24
+Thread id 140627161347840 Transaction id 488 reads from 6 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 485 reads from 9 value 0 at 17:6:24
+Transaction id 471 tries to commit with result abort at 17:6:24
+Thread id 140626968315648 Transaction id 485 writes to 9 value 19 at 17:6:24
+Thread id 140627110991616 Transaction id 490 reads from 6 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 479 reads from 0 value 23 at 17:6:24
+Transaction id 477 tries to commit with result abort at 17:6:24
+Transaction id 479 tries to commit with result abort at 17:6:24
+Thread id 140627203311360 Transaction id 487 reads from 5 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 487 writes to 5 value 50 at 17:6:24
+Thread id 140627119384320 Transaction id 486 writes to 7 value 56 at 17:6:24
+Thread id 140627060635392 Transaction id 492 reads from 2 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 492 writes to 2 value 87 at 17:6:24
+Transaction id 474 tries to commit with result commit at 17:6:24
+Thread id 140626926352128 Transaction id 478 reads from 0 value 23 at 17:6:24
+Thread id 140627203311360 Transaction id 487 reads from 1 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 481 writes to 4 value 29 at 17:6:24
+Thread id 140627144562432 Transaction id 494 reads from 1 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 494 writes to 1 value 72 at 17:6:24
+Thread id 140627654395648 Transaction id 483 reads from 4 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 481 reads from 3 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 470 reads from 4 value 0 at 17:6:24
+Transaction id 470 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 490 writes to 6 value 73 at 17:6:24
+Thread id 140626968315648 Transaction id 485 reads from 7 value 0 at 17:6:24
+Transaction id 485 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 480 reads from 0 value 23 at 17:6:24
+Thread id 140626959922944 Transaction id 493 reads from 6 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 486 reads from 1 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 489 reads from 8 value 0 at 17:6:24
+Transaction id 478 tries to commit with result abort at 17:6:24
+Transaction id 487 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 489 writes to 8 value 43 at 17:6:24
+Thread id 140626926352128 Transaction id 501 reads from 1 value 0 at 17:6:24
+Transaction id 488 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 483 writes to 4 value 83 at 17:6:24
+Thread id 140626926352128 Transaction id 501 writes to 1 value 65 at 17:6:24
+Thread id 140627144562432 Transaction id 494 reads from 4 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 496 reads from 6 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 491 reads from 7 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 497 reads from 6 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 498 reads from 4 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 498 writes to 4 value 45 at 17:6:24
+Thread id 140626968315648 Transaction id 500 reads from 8 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 490 reads from 8 value 0 at 17:6:24
+Transaction id 493 tries to commit with result abort at 17:6:24
+Transaction id 490 tries to commit with result abort at 17:6:24
+Transaction id 486 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 492 reads from 2 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 484 writes to 0 value 87 at 17:6:24
+Thread id 140627119384320 Transaction id 506 reads from 5 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 506 writes to 5 value 80 at 17:6:24
+Transaction id 481 tries to commit with result abort at 17:6:24
+Thread id 140627203311360 Transaction id 502 reads from 1 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 489 reads from 2 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 506 reads from 2 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 483 reads from 2 value 0 at 17:6:24
+Transaction id 496 tries to commit with result abort at 17:6:24
+Transaction id 501 tries to commit with result commit at 17:6:24
+Transaction id 480 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 491 writes to 7 value 37 at 17:6:24
+Transaction id 483 tries to commit with result abort at 17:6:24
+Thread id 140626976708352 Transaction id 508 reads from 9 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 498 reads from 1 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 491 reads from 0 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 495 reads from 7 value 0 at 17:6:24
+Transaction id 492 tries to commit with result abort at 17:6:24
+Thread id 140627169740544 Transaction id 495 writes to 7 value 72 at 17:6:24
+Thread id 140627203311360 Transaction id 502 writes to 1 value 38 at 17:6:24
+Thread id 140626993493760 Transaction id 507 reads from 1 value 0 at 17:6:24
+Thread id 140626993493760 Transaction id 507 writes to 1 value 34 at 17:6:24
+Thread id 140627119384320 Transaction id 506 writes to 2 value 11 at 17:6:24
+Transaction id 489 tries to commit with result abort at 17:6:24
+Thread id 140627077420800 Transaction id 497 writes to 6 value 76 at 17:6:24
+Thread id 140627646002944 Transaction id 484 reads from 2 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 502 reads from 5 value 0 at 17:6:24
+Transaction id 502 tries to commit with result abort at 17:6:24
+Transaction id 507 tries to commit with result commit at 17:6:24
+Thread id 140627119384320 Transaction id 506 reads from 9 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 508 writes to 9 value 36 at 17:6:24
+Thread id 140627110991616 Transaction id 505 reads from 7 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 491 writes to 0 value 100 at 17:6:24
+Thread id 140627161347840 Transaction id 503 reads from 5 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 508 reads from 8 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 508 writes to 8 value 49 at 17:6:24
+Transaction id 494 tries to commit with result abort at 17:6:24
+Thread id 140627018671872 Transaction id 499 reads from 6 value 0 at 17:6:24
+Thread id 140627018671872 Transaction id 499 writes to 6 value 75 at 17:6:24
+Thread id 140627604039424 Transaction id 512 reads from 1 value 34 at 17:6:24
+Transaction id 484 tries to commit with result abort at 17:6:24
+Thread id 140626976708352 Transaction id 508 reads from 1 value 34 at 17:6:24
+Transaction id 508 tries to commit with result abort at 17:6:24
+Thread id 140627077420800 Transaction id 497 reads from 6 value 0 at 17:6:24
+Transaction id 498 tries to commit with result abort at 17:6:24
+Transaction id 506 tries to commit with result abort at 17:6:24
+Transaction id 497 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 510 reads from 8 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 504 reads from 9 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 505 writes to 7 value 87 at 17:6:24
+Thread id 140627010279168 Transaction id 491 reads from 6 value 0 at 17:6:24
+Transaction id 503 tries to commit with result abort at 17:6:24
+Transaction id 491 tries to commit with result abort at 17:6:24
+Thread id 140627169740544 Transaction id 495 reads from 0 value 0 at 17:6:24
+Thread id 140627169740544 Transaction id 495 writes to 0 value 70 at 17:6:24
+Transaction id 499 tries to commit with result commit at 17:6:24
+Thread id 140627203311360 Transaction id 513 reads from 7 value 0 at 17:6:24
+Transaction id 500 tries to commit with result abort at 17:6:24
+Thread id 140627203311360 Transaction id 513 writes to 7 value 47 at 17:6:24
+Thread id 140626976708352 Transaction id 516 reads from 8 value 0 at 17:6:24
+Transaction id 504 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 511 reads from 2 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 513 reads from 0 value 0 at 17:6:24
+Thread id 140627203311360 Transaction id 513 writes to 0 value 93 at 17:6:24
+Thread id 140627110991616 Transaction id 505 reads from 0 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 509 reads from 1 value 34 at 17:6:24
+Thread id 140627604039424 Transaction id 512 writes to 1 value 87 at 17:6:24
+Thread id 140627646002944 Transaction id 515 reads from 2 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 515 writes to 2 value 46 at 17:6:24
+Thread id 140626968315648 Transaction id 522 reads from 8 value 0 at 17:6:24
+Transaction id 510 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 512 reads from 2 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 515 reads from 3 value 0 at 17:6:24
+Transaction id 516 tries to commit with result abort at 17:6:24
+Transaction id 495 tries to commit with result commit at 17:6:24
+Thread id 140627646002944 Transaction id 515 writes to 3 value 95 at 17:6:24
+Thread id 140626976708352 Transaction id 525 reads from 5 value 0 at 17:6:24
+Transaction id 511 tries to commit with result abort at 17:6:24
+Thread id 140627161347840 Transaction id 520 reads from 9 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 515 reads from 7 value 0 at 17:6:24
+Transaction id 505 tries to commit with result abort at 17:6:24
+Transaction id 513 tries to commit with result commit at 17:6:24
+Thread id 140627646002944 Transaction id 515 writes to 7 value 96 at 17:6:24
+Thread id 140627136169728 Transaction id 517 reads from 6 value 75 at 17:6:24
+Thread id 140627119384320 Transaction id 518 reads from 6 value 75 at 17:6:24
+Thread id 140626968315648 Transaction id 522 writes to 8 value 5 at 17:6:24
+Thread id 140627654395648 Transaction id 524 reads from 1 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 524 writes to 1 value 71 at 17:6:24
+Thread id 140626959922944 Transaction id 523 reads from 2 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 523 writes to 2 value 41 at 17:6:24
+Thread id 140626976708352 Transaction id 525 writes to 5 value 49 at 17:6:24
+Thread id 140627010279168 Transaction id 521 reads from 1 value 0 at 17:6:24
+Thread id 140627161347840 Transaction id 520 writes to 9 value 24 at 17:6:24
+Transaction id 521 tries to commit with result abort at 17:6:24
+Transaction id 509 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 527 reads from 7 value 0 at 17:6:24
+Transaction id 517 tries to commit with result abort at 17:6:24
+Thread id 140627646002944 Transaction id 515 reads from 5 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 518 writes to 6 value 121 at 17:6:24
+Transaction id 512 tries to commit with result abort at 17:6:24
+Transaction id 515 tries to commit with result abort at 17:6:24
+Thread id 140627077420800 Transaction id 519 reads from 4 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 514 reads from 9 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 522 reads from 9 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 526 reads from 9 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 524 reads from 4 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 524 writes to 4 value 43 at 17:6:24
+Thread id 140626959922944 Transaction id 523 reads from 9 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 525 reads from 1 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 525 writes to 1 value 95 at 17:6:24
+Thread id 140627110991616 Transaction id 527 writes to 7 value 38 at 17:6:24
+Thread id 140626825836288 Transaction id 529 reads from 3 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 529 writes to 3 value 55 at 17:6:24
+Transaction id 520 tries to commit with result commit at 17:6:24
+Transaction id 519 tries to commit with result abort at 17:6:24
+Thread id 140627646002944 Transaction id 532 reads from 0 value 93 at 17:6:24
+Transaction id 522 tries to commit with result abort at 17:6:24
+Transaction id 514 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 529 reads from 9 value 24 at 17:6:24
+Thread id 140627010279168 Transaction id 528 reads from 9 value 24 at 17:6:24
+Transaction id 523 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 524 reads from 4 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 524 writes to 4 value 38 at 17:6:24
+Thread id 140627604039424 Transaction id 531 reads from 1 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 518 reads from 9 value 0 at 17:6:24
+Transaction id 518 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 527 reads from 6 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 525 reads from 3 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 532 writes to 0 value 168 at 17:6:24
+Transaction id 526 tries to commit with result abort at 17:6:24
+Transaction id 525 tries to commit with result abort at 17:6:24
+Thread id 140627144562432 Transaction id 535 reads from 6 value 0 at 17:6:24
+Transaction id 528 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 529 writes to 9 value 68 at 17:6:24
+Thread id 140626959922944 Transaction id 536 reads from 6 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 524 reads from 7 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 529 reads from 7 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 529 writes to 7 value 21 at 17:6:24
+Transaction id 527 tries to commit with result abort at 17:6:24
+Thread id 140626968315648 Transaction id 534 reads from 7 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 534 writes to 7 value 79 at 17:6:24
+Transaction id 535 tries to commit with result abort at 17:6:24
+Thread id 140627646002944 Transaction id 532 reads from 8 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 531 writes to 1 value 69 at 17:6:24
+Thread id 140626959922944 Transaction id 536 writes to 6 value 33 at 17:6:24
+Thread id 140627136169728 Transaction id 530 reads from 8 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 533 reads from 8 value 0 at 17:6:24
+Transaction id 524 tries to commit with result abort at 17:6:24
+Thread id 140627077420800 Transaction id 533 writes to 8 value 85 at 17:6:24
+Thread id 140627119384320 Transaction id 537 reads from 2 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 543 reads from 1 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 538 reads from 8 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 539 reads from 1 value 0 at 17:6:24
+Transaction id 539 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 529 reads from 1 value 0 at 17:6:24
+Transaction id 532 tries to commit with result abort at 17:6:24
+Transaction id 529 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 540 reads from 0 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 534 reads from 0 value 0 at 17:6:24
+Transaction id 530 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 531 reads from 0 value 93 at 17:6:24
+Thread id 140626959922944 Transaction id 536 reads from 9 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 536 writes to 9 value 48 at 17:6:24
+Thread id 140627119384320 Transaction id 537 writes to 2 value 71 at 17:6:24
+Thread id 140627110991616 Transaction id 541 reads from 6 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 533 reads from 7 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 538 writes to 8 value 61 at 17:6:24
+Thread id 140627144562432 Transaction id 542 reads from 9 value 0 at 17:6:24
+Thread id 140627144562432 Transaction id 542 writes to 9 value 26 at 17:6:24
+Thread id 140627010279168 Transaction id 540 writes to 0 value 91 at 17:6:24
+Thread id 140626825836288 Transaction id 546 reads from 7 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 546 writes to 7 value 9 at 17:6:24
+Transaction id 531 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 541 writes to 6 value 46 at 17:6:24
+Thread id 140627654395648 Transaction id 543 writes to 1 value 45 at 17:6:24
+Thread id 140627010279168 Transaction id 540 reads from 6 value 0 at 17:6:24
+Transaction id 533 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 543 reads from 9 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 545 reads from 8 value 0 at 17:6:24
+Transaction id 534 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 538 reads from 8 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 547 reads from 9 value 0 at 17:6:24
+Transaction id 542 tries to commit with result commit at 17:6:24
+Thread id 140627136169728 Transaction id 547 writes to 9 value 78 at 17:6:24
+Thread id 140626959922944 Transaction id 536 reads from 1 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 537 reads from 7 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 548 reads from 7 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 546 reads from 2 value 0 at 17:6:24
+Transaction id 540 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 546 writes to 2 value 10 at 17:6:24
+Thread id 140627110991616 Transaction id 541 reads from 1 value 0 at 17:6:24
+Transaction id 543 tries to commit with result abort at 17:6:24
+Transaction id 541 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 546 reads from 5 value 0 at 17:6:24
+Thread id 140627646002944 Transaction id 545 writes to 8 value 37 at 17:6:24
+Transaction id 538 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 553 reads from 1 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 547 reads from 5 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 547 writes to 5 value 77 at 17:6:24
+Transaction id 545 tries to commit with result commit at 17:6:24
+Thread id 140627604039424 Transaction id 548 writes to 7 value 43 at 17:6:24
+Transaction id 537 tries to commit with result abort at 17:6:24
+Thread id 140627077420800 Transaction id 549 reads from 6 value 0 at 17:6:24
+Thread id 140627077420800 Transaction id 549 writes to 6 value 96 at 17:6:24
+Thread id 140627654395648 Transaction id 552 reads from 8 value 37 at 17:6:24
+Thread id 140627654395648 Transaction id 552 writes to 8 value 98 at 17:6:24
+Transaction id 546 tries to commit with result abort at 17:6:24
+Thread id 140627110991616 Transaction id 553 writes to 1 value 77 at 17:6:24
+Thread id 140627136169728 Transaction id 547 reads from 2 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 544 reads from 7 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 551 reads from 9 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 548 reads from 1 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 550 reads from 2 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 550 writes to 2 value 39 at 17:6:24
+Transaction id 536 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 554 reads from 1 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 555 reads from 5 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 555 writes to 5 value 24 at 17:6:24
+Transaction id 549 tries to commit with result commit at 17:6:24
+Transaction id 544 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 552 reads from 8 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 553 reads from 0 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 553 writes to 0 value 87 at 17:6:24
+Transaction id 548 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 551 writes to 9 value 49 at 17:6:24
+Thread id 140627060635392 Transaction id 554 writes to 1 value 63 at 17:6:24
+Thread id 140626968315648 Transaction id 550 reads from 4 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 556 reads from 0 value 0 at 17:6:24
+Thread id 140626825836288 Transaction id 556 writes to 0 value 24 at 17:6:24
+Thread id 140626976708352 Transaction id 558 reads from 1 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 557 reads from 7 value 0 at 17:6:24
+Transaction id 547 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 559 reads from 8 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 550 writes to 4 value 98 at 17:6:24
+Thread id 140627110991616 Transaction id 553 reads from 7 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 554 reads from 1 value 0 at 17:6:24
+Thread id 140626968315648 Transaction id 550 reads from 5 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 555 reads from 5 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 558 writes to 1 value 9 at 17:6:24
+Thread id 140627119384320 Transaction id 555 writes to 5 value 4 at 17:6:24
+Transaction id 552 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 556 reads from 0 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 557 writes to 7 value 95 at 17:6:24
+Transaction id 553 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 560 reads from 1 value 0 at 17:6:24
+Transaction id 554 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 560 writes to 1 value 68 at 17:6:24
+Transaction id 550 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 561 reads from 5 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 561 writes to 5 value 63 at 17:6:24
+Thread id 140627110991616 Transaction id 562 reads from 8 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 560 reads from 4 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 558 reads from 9 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 555 reads from 9 value 0 at 17:6:24
+Transaction id 559 tries to commit with result abort at 17:6:24
+Transaction id 555 tries to commit with result abort at 17:6:24
+Thread id 140626825836288 Transaction id 556 writes to 0 value 54 at 17:6:24
+Thread id 140627010279168 Transaction id 551 reads from 8 value 37 at 17:6:24
+Thread id 140626959922944 Transaction id 557 reads from 3 value 0 at 17:6:24
+Thread id 140627110991616 Transaction id 562 writes to 8 value 21 at 17:6:24
+Thread id 140627654395648 Transaction id 561 reads from 5 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 558 writes to 9 value 99 at 17:6:24
+Thread id 140627136169728 Transaction id 560 writes to 4 value 29 at 17:6:24
+Thread id 140627604039424 Transaction id 565 reads from 4 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 563 reads from 5 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 560 reads from 6 value 96 at 17:6:24
+Thread id 140626968315648 Transaction id 564 reads from 3 value 0 at 17:6:24
+Transaction id 551 tries to commit with result abort at 17:6:24
+Transaction id 556 tries to commit with result commit at 17:6:24
+Transaction id 561 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 567 reads from 8 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 567 writes to 8 value 50 at 17:6:24
+Transaction id 562 tries to commit with result commit at 17:6:24
+Thread id 140626968315648 Transaction id 564 writes to 3 value 37 at 17:6:24
+Thread id 140626976708352 Transaction id 558 reads from 5 value 0 at 17:6:24
+Transaction id 558 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 563 writes to 5 value 24 at 17:6:24
+Thread id 140627119384320 Transaction id 566 reads from 7 value 0 at 17:6:24
+Transaction id 557 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 565 writes to 4 value 100 at 17:6:24
+Thread id 140627654395648 Transaction id 568 reads from 5 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 560 writes to 6 value 120 at 17:6:24
+Thread id 140627010279168 Transaction id 567 reads from 0 value 54 at 17:6:24
+Thread id 140627060635392 Transaction id 563 reads from 5 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 566 writes to 7 value 26 at 17:6:24
+Thread id 140627654395648 Transaction id 568 writes to 5 value 40 at 17:6:24
+Thread id 140627604039424 Transaction id 565 reads from 3 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 567 writes to 0 value 83 at 17:6:24
+Transaction id 563 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 560 reads from 8 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 570 reads from 8 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 569 reads from 7 value 0 at 17:6:24
+Thread id 140626976708352 Transaction id 569 writes to 7 value 75 at 17:6:24
+Thread id 140627604039424 Transaction id 565 writes to 3 value 52 at 17:6:24
+Transaction id 564 tries to commit with result commit at 17:6:24
+Thread id 140627119384320 Transaction id 566 reads from 4 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 567 reads from 9 value 0 at 17:6:24
+Thread id 140627654395648 Transaction id 568 reads from 4 value 0 at 17:6:24
+Transaction id 560 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 568 writes to 4 value 1 at 17:6:24
+Thread id 140626959922944 Transaction id 570 writes to 8 value 39 at 17:6:24
+Thread id 140627060635392 Transaction id 571 reads from 9 value 0 at 17:6:24
+Transaction id 569 tries to commit with result commit at 17:6:24
+Thread id 140627060635392 Transaction id 571 writes to 9 value 76 at 17:6:24
+Thread id 140627604039424 Transaction id 565 reads from 8 value 21 at 17:6:24
+Transaction id 566 tries to commit with result abort at 17:6:24
+Transaction id 567 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 568 reads from 2 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 570 reads from 6 value 0 at 17:6:24
+Transaction id 565 tries to commit with result abort at 17:6:24
+Thread id 140626959922944 Transaction id 570 writes to 6 value 53 at 17:6:24
+Thread id 140627060635392 Transaction id 571 reads from 4 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 573 reads from 0 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 572 reads from 7 value 75 at 17:6:24
+Thread id 140627604039424 Transaction id 575 reads from 4 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 574 reads from 9 value 0 at 17:6:24
+Transaction id 571 tries to commit with result abort at 17:6:24
+Thread id 140627654395648 Transaction id 568 writes to 2 value 67 at 17:6:24
+Thread id 140627010279168 Transaction id 574 writes to 9 value 80 at 17:6:24
+Thread id 140626959922944 Transaction id 570 reads from 1 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 572 writes to 7 value 170 at 17:6:24
+Thread id 140627119384320 Transaction id 573 writes to 0 value 54 at 17:6:24
+Thread id 140627604039424 Transaction id 575 writes to 4 value 30 at 17:6:24
+Thread id 140626959922944 Transaction id 570 writes to 1 value 31 at 17:6:24
+Thread id 140627060635392 Transaction id 576 reads from 3 value 0 at 17:6:24
+Transaction id 568 tries to commit with result commit at 17:6:24
+Thread id 140627136169728 Transaction id 572 reads from 7 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 574 reads from 2 value 67 at 17:6:24
+Thread id 140627060635392 Transaction id 576 writes to 3 value 1 at 17:6:24
+Thread id 140627604039424 Transaction id 575 reads from 9 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 573 reads from 6 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 572 writes to 7 value 88 at 17:6:24
+Thread id 140626959922944 Transaction id 570 reads from 1 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 574 writes to 2 value 163 at 17:6:24
+Thread id 140626959922944 Transaction id 570 writes to 1 value 23 at 17:6:24
+Thread id 140627604039424 Transaction id 575 writes to 9 value 28 at 17:6:24
+Thread id 140627060635392 Transaction id 576 reads from 8 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 573 writes to 6 value 41 at 17:6:24
+Thread id 140627136169728 Transaction id 572 reads from 8 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 574 reads from 2 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 576 writes to 8 value 67 at 17:6:24
+Thread id 140626959922944 Transaction id 570 reads from 0 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 575 reads from 3 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 573 reads from 3 value 0 at 17:6:24
+Transaction id 572 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 574 writes to 2 value 70 at 17:6:24
+Transaction id 573 tries to commit with result abort at 17:6:24
+Transaction id 570 tries to commit with result abort at 17:6:24
+Thread id 140627060635392 Transaction id 576 reads from 2 value 0 at 17:6:24
+Transaction id 575 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 577 reads from 1 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 576 writes to 2 value 98 at 17:6:24
+Thread id 140627119384320 Transaction id 578 reads from 7 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 574 reads from 8 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 577 writes to 1 value 79 at 17:6:24
+Thread id 140627604039424 Transaction id 580 reads from 0 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 579 reads from 8 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 578 writes to 7 value 42 at 17:6:24
+Thread id 140627060635392 Transaction id 576 reads from 2 value 0 at 17:6:24
+Thread id 140627060635392 Transaction id 576 writes to 2 value 92 at 17:6:24
+Thread id 140627604039424 Transaction id 580 writes to 0 value 23 at 17:6:24
+Transaction id 574 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 577 reads from 2 value 0 at 17:6:24
+Thread id 140626959922944 Transaction id 579 writes to 8 value 79 at 17:6:24
+Thread id 140627119384320 Transaction id 578 reads from 7 value 0 at 17:6:24
+Thread id 140627604039424 Transaction id 580 reads from 2 value 0 at 17:6:24
+Transaction id 577 tries to commit with result abort at 17:6:24
+Thread id 140627604039424 Transaction id 580 writes to 2 value 70 at 17:6:24
+Thread id 140627010279168 Transaction id 581 reads from 4 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 581 writes to 4 value 68 at 17:6:24
+Transaction id 576 tries to commit with result commit at 17:6:24
+Thread id 140627119384320 Transaction id 578 writes to 7 value 2 at 17:6:24
+Transaction id 579 tries to commit with result commit at 17:6:24
+Thread id 140627136169728 Transaction id 582 reads from 7 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 581 reads from 9 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 578 reads from 7 value 0 at 17:6:24
+Transaction id 580 tries to commit with result commit at 17:6:24
+Thread id 140627010279168 Transaction id 581 writes to 9 value 22 at 17:6:24
+Transaction id 578 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 582 writes to 7 value 71 at 17:6:24
+Thread id 140627119384320 Transaction id 583 reads from 7 value 0 at 17:6:24
+Thread id 140627010279168 Transaction id 581 reads from 1 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 583 writes to 7 value 62 at 17:6:24
+Thread id 140627136169728 Transaction id 582 reads from 2 value 70 at 17:6:24
+Thread id 140627136169728 Transaction id 582 writes to 2 value 129 at 17:6:24
+Thread id 140627010279168 Transaction id 581 writes to 1 value 92 at 17:6:24
+Thread id 140627119384320 Transaction id 583 reads from 4 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 582 reads from 2 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 583 writes to 4 value 63 at 17:6:24
+Thread id 140627010279168 Transaction id 581 reads from 2 value 70 at 17:6:24
+Thread id 140627136169728 Transaction id 582 writes to 2 value 97 at 17:6:24
+Thread id 140627119384320 Transaction id 583 reads from 8 value 79 at 17:6:24
+Thread id 140627119384320 Transaction id 583 writes to 8 value 164 at 17:6:24
+Transaction id 581 tries to commit with result abort at 17:6:24
+Thread id 140627010279168 Transaction id 584 reads from 8 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 582 reads from 8 value 79 at 17:6:24
+Thread id 140627119384320 Transaction id 583 reads from 3 value 1 at 17:6:24
+Thread id 140627010279168 Transaction id 584 writes to 8 value 42 at 17:6:24
+Transaction id 582 tries to commit with result abort at 17:6:24
+Thread id 140627119384320 Transaction id 583 writes to 3 value 34 at 17:6:24
+Thread id 140627136169728 Transaction id 585 reads from 2 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 585 writes to 2 value 73 at 17:6:24
+Thread id 140627010279168 Transaction id 584 reads from 2 value 0 at 17:6:24
+Thread id 140627119384320 Transaction id 583 reads from 3 value 0 at 17:6:24
+Transaction id 584 tries to commit with result abort at 17:6:24
+Thread id 140627136169728 Transaction id 585 reads from 1 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 585 writes to 1 value 39 at 17:6:24
+Thread id 140627119384320 Transaction id 583 writes to 3 value 6 at 17:6:24
+Thread id 140627010279168 Transaction id 586 reads from 0 value 23 at 17:6:24
+Thread id 140627010279168 Transaction id 586 writes to 0 value 75 at 17:6:24
+Thread id 140627136169728 Transaction id 585 reads from 1 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 585 writes to 1 value 64 at 17:6:24
+Transaction id 583 tries to commit with result commit at 17:6:24
+Transaction id 586 tries to commit with result commit at 17:6:24
+Thread id 140627136169728 Transaction id 585 reads from 3 value 6 at 17:6:24
+Thread id 140627136169728 Transaction id 585 writes to 3 value 88 at 17:6:24
+Thread id 140627136169728 Transaction id 585 reads from 7 value 62 at 17:6:24
+Thread id 140627136169728 Transaction id 585 writes to 7 value 89 at 17:6:24
+Thread id 140627136169728 Transaction id 585 reads from 3 value 0 at 17:6:24
+Thread id 140627136169728 Transaction id 585 writes to 3 value 36 at 17:6:24
+Transaction id 585 tries to commit with result commit at 17:6:24
